@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="149" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="147" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -58,6 +58,7 @@
 | 2026-07-30 | [2026年中国科学院上海药物研究所2026年优秀大学生夏令营营员招募](https://simm.cas.cn/web/yjsjy/tzgg/202604/t20260420_8187569.html) |
 | 2026-06-30 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-19 | [2026年中国科学院广州生物医药与健康研究院第二十届“走进GIBH”大学生夏令营报名通知](https://gibh.cas.cn/yjs/zsxx/xly/202604/t20260408_8183050.html) |
+| 2026-06-15 | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
 
 ## 📝 数据来源
 
