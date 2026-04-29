@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="146" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="145" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,6 +47,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-10 | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |
 | ~~2026-04-07~~ | [2026年北京大学国际法学院2027研招开放日报名启动](https://mp.weixin.qq.com/s/oo4zCHqBmZJfJfd6mSsNcA?scene=1) |
 
 <div align="center">
