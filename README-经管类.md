@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="145" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -107,7 +107,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-05-29 | [2026年香港中文大学（深圳）经管学院市场学理学硕士项目2027年秋季入学优秀大学生夏令营申请开启](https://mscmkt.cuhk.edu.cn/zh-hans/node/4032) |
-| 2026-04-30 | [2026年香港中文大学（深圳）经管学院经济学硕士项目2026夏令营-Mini营考核安排](https://mp.weixin.qq.com/s/zaPvxhfI_ookGtz0WSF1XQ) |
+| ~~2026-04-30~~ | [2026年香港中文大学（深圳）经管学院经济学硕士项目2026夏令营-Mini营考核安排](https://mp.weixin.qq.com/s/zaPvxhfI_ookGtz0WSF1XQ) |
 
 <div align="center">
 <h3>澳门大学</h3>

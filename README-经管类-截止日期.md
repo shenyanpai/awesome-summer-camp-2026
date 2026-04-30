@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="145" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="143" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -54,7 +54,7 @@
 | 2026-05-20 | 清华大学 | [2026年清华大学苏世民书院2027级招生简章](https://mp.weixin.qq.com/s/zyP58-SAW5AYIqsV23CTow) |
 | 2026-05-11 | 北京大学 | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
 | 2026-05-07 | 复旦大学 | [2026年复旦大学管理学院2027级招生系列活动正式启动](https://mp.weixin.qq.com/s/gKKT5TueB_KKn0lpEOm0XQ) |
-| 2026-04-30 | 香港中文大学（深圳） | [2026年香港中文大学（深圳）经管学院经济学硕士项目2026夏令营-Mini营考核安排](https://mp.weixin.qq.com/s/zaPvxhfI_ookGtz0WSF1XQ) |
+| ~~2026-04-30~~ | 香港中文大学（深圳） | [2026年香港中文大学（深圳）经管学院经济学硕士项目2026夏令营-Mini营考核安排](https://mp.weixin.qq.com/s/zaPvxhfI_ookGtz0WSF1XQ) |
 | ~~2026-03-30~~ | 南开大学 | [2026年南开大学国家创新与金融研究院卓越金融人才培养项目研究生选拔公告](https://mp.weixin.qq.com/s/u9RzDz8XNSJQBKEwRhoFJA) |
 | ~~2026-03-01~~ | 香港大学 | [2026年香港大学经管学院2026年博士研究生招募营](https://mp.weixin.qq.com/s/iPbbK-GHtPI86CLgojObcg) |
 
