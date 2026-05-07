@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="138" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="137" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -56,6 +56,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-22 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
+
+<div align="center">
+<h3>北京协和医学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-15 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
 
 <div align="center">
 <h3>安徽医科大学</h3>

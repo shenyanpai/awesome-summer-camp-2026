@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="138" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="137" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,6 +47,7 @@
 | 2026-06-30 | 中国科学院 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-22 | 中山大学 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
 | 2026-06-19 | 中国科学院 | [2026年中国科学院广州生物医药与健康研究院第二十届“走进GIBH”大学生夏令营报名通知](https://gibh.cas.cn/yjs/zsxx/xly/202604/t20260408_8183050.html) |
+| 2026-06-15 | 北京协和医学院 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
 | 2026-06-15 | 中国科学院 | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
 | 2026-06-08 | 中国医学科学院 | [2026年中国医学科学院血液病医院（中国医学科学院血液学研究所）第十六届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/cClnQIPSHvLq8AHUasE_8g) |
 | 2026-06-03 | 浙江大学 | [2026年浙江大学基础医学院关于举办2026年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2026/0506/c85156a3158495/page.htm) |
