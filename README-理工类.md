@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,9 +47,12 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2026年清华大学环境学院国际暑期学校招募开启](https://mp.weixin.qq.com/s/MCT2PPpeZvc1-ny8hGQjkg) |
 | 暂无 | [2026年清华大学深圳国际研究生院数据与信息研究院智慧物流与工业智能专业硕士项目启动招生](https://mp.weixin.qq.com/s/OzpLuDyOufFaKfwlOe-EpA) |
 | 暂无 | [2026年清华大学智能产业研究院2026夏令营开始报名](https://mp.weixin.qq.com/s/O_M_JCzFaPUCHV4w0O3lLQ) |
+| 暂无 | [2026年清华大学环境学院国际暑期学校招募开启](https://mp.weixin.qq.com/s/MCT2PPpeZvc1-ny8hGQjkg) |
+| 2026-06-09 | [2026年清华大学药学院2026年优秀大学生学术交流会通知](https://www.sps.tsinghua.edu.cn/info/1075/2674.htm) |
+| 2026-06-09 | [2026年清华大学生命科学联合中心2026年生命科学、基础医学与药学大学生学术交流周”通知](https://mp.weixin.qq.com/s/gEDhVcIMCwhThuUK_nIqCg) |
+| 2026-05-31 | [2026年清华大学物理系“清物百年”本科生科研开放日活动通知](https://mp.weixin.qq.com/s/642k-Q1z3hYetXcIcWgtqQ) |
 | ~~2026-05-07~~ | [2026年清华大学交叉信息研究院学术交流开放日](https://admission.iiis.tsinghua.edu.cn/) |
 | ~~2026-04-30~~ | [2026年清华大学人工智能学院大学生学术交流日](https://nan) |
 | ~~2026-04-21~~ | [2026年清华大学统计与数据科学系2026学术开放日](https://mp.weixin.qq.com/s/-Z8OHTeC1xv-Gyd9m8LM8Q) |
@@ -62,6 +65,7 @@
 |:------------:|:---------|
 | 2026-06-02 | [2026年北京大学生命科学联合中心（北大方面）2026年暑期培训班招生简介](https://mp.weixin.qq.com/s/c4HLevuAyljhRHrCI-PuzQ?scene=1&click_id=1) |
 | 2026-05-31 | [2026年北京大学深圳研究生院2026年国际暑期探索营报名通知](https://www.pkusz.edu.cn/info/1058/6656.htm) |
+| 2026-05-15 | [2026年北京大学物理学院天文学系“行星形成”研究生暑期学校及讨论班通知](https://mp.weixin.qq.com/s/O-poF4IkthCU5aa6tvUIPQ?scene=1&click_id=33) |
 | ~~2026-04-25~~ | [2026年北京大学数学科学学院数学学科交流营报名通知](https://www.math.pku.edu.cn/zygg/172131.htm) |
 
 <div align="center">
@@ -71,6 +75,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年浙江大学良渚实验室优秀大学生夏令营通知](https://nan) |
+| 2026-06-02 | [2026年浙江大学良渚实验室2026年度优秀大学生夏令营报名开启](https://mp.weixin.qq.com/s/MSaqjxTciVOp57BNa0CJqw) |
 | 2026-05-21 | [2026年浙江大学数据科学研究中心2026年全国优秀大学生交流营（数学方向）报名通知](https://cds.zju.edu.cn/a/zsxx/3780.html) |
 | 2026-05-20 | [2026年浙江大学数学科学学院2026年全国优秀大学生交流营报](https://mp.weixin.qq.com/s/yncP4ZGyCy0NEwvRNnPwKQ?scene=1) |
 
@@ -97,6 +102,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2026年南京大学物理学院2026年全国优秀大三学生开放日活动的通知](https://physics.nju.edu.cn/xwdt/tzggxlycgzhd/20260509/i387880.html) |
 | 2026-07-31 | [2026年南京大学人工智能学院LAMDA招收2027年秋季入学研究生说明](https://www.lamda.nju.edu.cn/recruit-2027/recruit-2027.html) |
 
 <div align="center">
@@ -116,8 +122,8 @@
 | 2026-05-10 | [2026年中国科学技术大学地球和空间科学学院第一届空间科学与技术科学营报名通知](https://ess.ustc.edu.cn/2026/0424/c41218a735778/page.htm) |
 | 2026-05-10 | [2026年中国科学技术大学地球和空间科学学院地球与行星物理科学营报名通知](https://ess.ustc.edu.cn/2026/0424/c41218a735724/page.htm) |
 | 2026-05-10 | [2026年中国科学技术大学地球和空间科学学院第一届大气与全球变化科学营报名通知](https://ess.ustc.edu.cn/2026/0424/c41218a735722/page.htm) |
-| 2026-05-08 | [2026年中国科学技术大学国家同步辐射实验室第一届“HALF英才”科学营活动通知](https://www.nsrl.ustc.edu.cn/2026/0424/c10985a735756/page.htm) |
-| 2026-05-08 | [2026年中国科学技术大学数学科学学院2026年“数学有理”科学营报名通知](https://math.ustc.edu.cn/2026/0410/c18650a726171/page.htm) |
+| ~~2026-05-08~~ | [2026年中国科学技术大学国家同步辐射实验室第一届“HALF英才”科学营活动通知](https://www.nsrl.ustc.edu.cn/2026/0424/c10985a735756/page.htm) |
+| ~~2026-05-08~~ | [2026年中国科学技术大学数学科学学院2026年“数学有理”科学营报名通知](https://math.ustc.edu.cn/2026/0410/c18650a726171/page.htm) |
 | ~~2026-05-05~~ | [2026年中国科学技术大学精准智能化学全国重点实验室第一届“菁致启航”科创营暨“化育英材”科学营报名通知](https://mp.weixin.qq.com/s/fo5n_6ULkkG-bpXxajOxDA?scene=1&click_id=5) |
 | ~~2026-04-16~~ | [2026年中国科学技术大学应用化学与工程学院（中国科学院长春应用化学研究所）2026年校园开放日活动通知](https://mp.weixin.qq.com/s/-Amrr3fCCdqqRL8paVobBw) |
 
@@ -138,6 +144,14 @@
 | 2026-06-30 | [2026年上海科技大学生物医学工程学院2026年大学生夏令营活动通知](https://mp.weixin.qq.com/s/rr-2324OCz8YKeK26bgE7A) |
 | 2026-06-19 | [2026年上海科技大学物质科学与技术学院夏令营&物质科学暑期学校开始报名啦](https://spst.shanghaitech.edu.cn/2026/0506/c2090a1121593/page.htm) |
 | 2026-06-18 | [2026年上海科技大学生命科学与技术学院2026年大学生夏令营、暑期班活动通知](https://slst.shanghaitech.edu.cn/2026/0506/c319a1121574/page.htm) |
+
+<div align="center">
+<h3>中国海洋大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-15 | [2026年中国海洋大学方宗熙海洋生物进化与发育研究中心第四届中国海洋大学“海洋生物进化与发育”暑期学校开启报名](https://mgbkl.ouc.edu.cn/sfc/2024/0425/c19772a525695/page.htm) |
 
 <div align="center">
 <h3>重庆邮电大学</h3>
@@ -161,39 +175,43 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2026年中国科学院空间应用工程与技术中心夏令营招募通知](https://mp.weixin.qq.com/s/6-Kk6NUMe1e6ftwuhGYwxw?scene=1) |
 | 暂无 | [2026年中国科学院上海光学精密机械研究所招生宣传手册](https://mp.weixin.qq.com/s/ofFGoCswDH6BLCRjnuVLGg?scene=1&click_id=9) |
+| 暂无 | [2026年中国科学院空间应用工程与技术中心夏令营招募通知](https://mp.weixin.qq.com/s/6-Kk6NUMe1e6ftwuhGYwxw?scene=1) |
 | 暂无 | [2026年中国科学院国家授时中心2026年 “时间之旅” 科学夏令营招募通知](https://mp.weixin.qq.com/s/e26tXCCF1CGt5Oih0Y0dHg) |
 | 2026-07-06 | [2026年中国科学院城市环境研究所第十七届“城市环境与健康”优秀大学生夏令营报名启动](https://mp.weixin.qq.com/s/S0Fqxnq-SPgZFQu0k0Z6Ng?click_id=35&scene=1) |
 | 2026-07-01 | [2026年中国科学院西安光学精密机械研究所招生系列活动](https://mp.weixin.qq.com/s/NbLrgfMj8TmaBdaP5Zf3gQ) |
 | 2026-06-30 | [2026年中国科学院烟台海岸带研究所“亲近蔚蓝，走进海岸带”暑期夏令营招募通知](http://www.yic.cas.cn/yjsjy/yjsxly/xlyzxtz/202605/t20260508_8197556.html) |
+| 2026-06-26 | [2026年中国科学院近代物理研究所“走进国家实验室，感受魅力核科学”2026年优秀大学生夏令营的通知](https://www.imp.cas.cn/edu/zsyds/zsdt/zs/202605/t20260508_8197595.html) |
 | 2026-06-25 | [2026年中国科学院脑科学与智能技术卓越创新中心暑期学校2026年通知《认识、探索大脑的奥秘》](https://cebsit.cas.cn/yjs/tzgg/202603/t20260331_8179817.html) |
 | 2026-06-25 | [2026年中国科学院海洋研究所2026年海洋科学暑期夏令营报名通知](http://www.qdio.ac.cn/yjs/zsxx/xly/202604/t20260424_835083.html) |
 | 2026-06-22 | [2026年中国科学院新疆天文台2026年“情系苍穹”大学生夏令营营员招募公告](http://www.xao.cas.cn/xwdt/zs/202605/t20260508_8197477.html) |
 | 2026-06-21 | [2026年中国科学院上海应用物理研究所2026年“应用物理”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/CdLdrHLbKaE_6hySpJjXVg) |
+| 2026-06-21 | [2026年中国科学院理化技术研究所2026年“理化筑梦 遇见未来”优秀大学生夏令营启航](https://mp.weixin.qq.com/s/JqkIH5l8UszJFopiCABFlw?scene=1&click_id=34) |
 | 2026-06-21 | [2026年中国科学院水利部成都山地灾害与环境研究所山地科学优秀大学生夏令营招生通知](http://www.imde.cas.cn/yjsjy/zsdt/zsjz/202604/t20260430_8195112.html) |
-| 2026-06-20 | [2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=531) |
-| 2026-06-20 | [2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函](https://mp.weixin.qq.com/s/CN-4u5YTKRMVPKT19jPWhQ) |
+| 2026-06-20 | [2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的通知](https://nieer.cas.cn/edu/kjjh/xly/202604/t20260423_8190291.html) |
 | 2026-06-20 | [2026年中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营报名正式开始](https://mp.weixin.qq.com/s/U1BXOagIzoMhAUw1ziAvjg) |
 | 2026-06-20 | [2026年中国科学院福建物质结构研究所（海西研究院）2026年大学生暑期夏令营招募通知](http://www.fjirsm.ac.cn/yjsjy/zsxx/202604/t20260407_8182017.html) |
+| 2026-06-20 | [2026年中国科学院长春光学精密机械与物理研究所2026年“溯光明理”夏令营邀请函](https://mp.weixin.qq.com/s/CN-4u5YTKRMVPKT19jPWhQ) |
 | 2026-06-20 | [2026年中国科学院分子植物科学卓越创新中心2026年“探索生命的多样性”暑期夏令营报名通知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202604/t20260414_8185538.html) |
+| 2026-06-20 | [2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的通知](https://nieer.cas.cn/edu/kjjh/xly/202604/t20260423_8190291.html) |
 | 2026-06-20 | [2026年中国科学院遗传与发育生物学研究所2026年“筑梦科学”大学生夏令营活动报名通知](https://genetics.cas.cn/edu/zsxx/xlytms/202604/t20260424_8190986.html) |
-| 2026-06-20 | [2026年中国科学院上海硅酸盐研究所2026年“下一站，硅所”大学生夏令营报名正式开始](https://mp.weixin.qq.com/s/U1BXOagIzoMhAUw1ziAvjg) |
+| 2026-06-20 | [2026年中国科学院上海技术物理研究所“红外筑梦”优秀大学生夏令营报名通知](https://sitp.cas.cn/yjs/zsxx/ssszs/202605/t20260501_8195486.html) |
 | 2026-06-20 | [2026年中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知](https://ncmte.nimte.ac.cn/view-33404.html) |
 | 2026-06-20 | [2026年中国科学院上海光学精密机械研究所2026年“追光之旅”暑期大学生夏令营招募通知](https://mp.weixin.qq.com/s/s1cbDbIqLy4Co7TOhmE2Sw) |
-| 2026-06-20 | [2026年中国科学院南海海洋研究所2026年“蓝色海洋”大学生夏令营活动通知](https://scsio.cas.cn/yjsjy/lhpy/xly/202604/t20260419_8187300.html) |
+| 2026-06-20 | [2026年中国科学院高能物理研究所2026年全国大学生夏令营及暑期学校活动报名通知](https://ihep.cas.cn/edu/bks/xly/202604/t20260426_8191472.html) |
+| 2026-06-20 | [2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=531) |
 | 2026-06-20 | [2026年中国科学院宁波材料技术与工程研究所2026年“梦启甬城，心动科苑”大学生暑期夏令营营员招募通知](https://ncmte.nimte.ac.cn/view-33404.html) |
-| 2026-06-20 | [2026年中国科学院西北研究院2026年“相聚丝路兰州 共筑科学梦想”优秀大学生夏令营的通知](https://nieer.cas.cn/edu/kjjh/xly/202604/t20260423_8190291.html) |
-| 2026-06-20 | [2026年中国科学院上海微系统与信息技术研究所2026年夏令营报名通知](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202604/t20260429_8194554.html) |
+| 2026-06-20 | [2026年中国科学院上海营养与健康研究所 2026年大学生暑期夏令营暨2027级硕士研究生推免初选报名通知](https://sedu.sinh.ac.cn/news.php?id=531) |
 | 2026-06-19 | [2026年中国科学院大学物理科学学院2026年“凝聚态及原子分子物理”大学生夏令营报名通知](https://physics.ucas.ac.cn/index.php/zh-CN/tzgg/6795-2026cmp-amp) |
 | 2026-06-19 | [2026年中国科学院微小卫星创新研究院2026年“筑梦星空”暑期大学生夏令营招募通知](https://microsate.cas.cn/yajsjy/tztg/202604/t20260421_8189501.html) |
 | 2026-06-18 | [2026年中国科学院大连化学物理研究所2026年大学生夏令营第一轮通知](https://mp.weixin.qq.com/s/Kh-PqMxA1TfGAOiJx_1ySQ) |
 | 2026-06-15 | [2026年中国科学院武汉病毒研究所2026年大学生夏令营招募通知](https://whiov.cas.cn/yjsjy/zsxxyjs/xny/202604/t20260428_8194092.html) |
 | 2026-06-15 | [2026年中国科学院生物与化学交叉研究中心暑期夏令营报名通知](https://www.ircbc.ac.cn/edu/xly/202604/t20260409_8183495.html) |
 | 2026-06-15 | [2026年中国科学院天津工业生物技术研究所“新生物学与生物经济”2026年大学生夏令营招生简章](http://www.tib.cas.cn/xwdt/tzgg/t_8190818.html) |
-| 2026-06-15 | [2026年中国科学院大气物理研究所优秀大学生夏令营的通知](https://iap.cas.cn/gb/yjsjy/tzgg/202605/t20260508_8197583.html) |
 | 2026-06-15 | [2026年中国科学院青岛生物能源与过程研究所2026“清源聚能”大学生夏令营来啦](https://mp.weixin.qq.com/s/J3k4tTxDH5zxYRNYUHj3sQ) |
+| 2026-06-15 | [2026年中国科学院大气物理研究所优秀大学生夏令营的通知](https://iap.cas.cn/gb/yjsjy/tzgg/202605/t20260508_8197583.html) |
 | 2026-06-15 | [2026年中国科学院大学物理科学学院“理论物理”大学生夏令营报名通知](https://physics.ucas.ac.cn/index.php/zh-CN/zsjy/2023-05-04-02-10-59/6798-tp) |
+| 2026-06-14 | [2026年中国科学院化学研究所2026年大学生夏令营活动报名通知](https://ic.cas.cn/jyc/zsxx/202605/t20260509_8198017.html) |
 | 2026-06-13 | [2026年中国科学院上海有机化学研究所2026年大学生暑期夏令营报名通知](https://sioc.cas.cn/zs/202604/t20260415_8185634.html) |
 | 2026-06-13 | [2026年中国科学院工业人工智能研究所首届“智造未来”暑期优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/RldIUi3tfAtC3DCyaUHiGg) |
 | 2026-06-11 | [2026年中国科学院地质与地球物理研究所“第十三届地球与行星科学大学生夏令营”暨“中国科学院大学第四期行星科学暑期学校”通知](https://igg.cas.cn/jyyd/jy_upcoming/202605/t20260506_8195734.html) |
@@ -216,7 +234,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-20 | [2026年香港中文大学（深圳）数据科学学院硕士研究生项目2026年优秀大学生迷你营及夏令营开放申请](https://mp.weixin.qq.com/s/PlA3r0GmzvshCkNB1E3JFg) |
-| 2026-05-08 | [2026年香港中文大学（深圳）理工学院2026年卓越本科生夏令营开放报名](https://mp.weixin.qq.com/s/ei_28cznyaW9tdzk9ecbAA) |
+| ~~2026-05-08~~ | [2026年香港中文大学（深圳）理工学院2026年卓越本科生夏令营开放报名](https://mp.weixin.qq.com/s/ei_28cznyaW9tdzk9ecbAA) |
 
 <div align="center">
 <h3>香港中文大学</h3>

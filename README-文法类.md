@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -73,6 +73,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/S5UJ9smLMmqNvyn1YSyPJQ?scene=1&click_id=5) |
+| 2026-06-08 | [2026年中国科学院大学公共政策与管理学院2026年公共政策与管理全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/_sE7uDpfy0raO7M-Q_9o_w) |
 
 ## 📝 数据来源
 

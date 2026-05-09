@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -51,6 +51,7 @@
 | 2026-06-05 | 中国科学院大学 | [2026年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营报名通知](https://sem.ucas.ac.cn/article/article_xq_time/eyJ0aXRsZTEiOiLph43opoHpgJrnn6UiLCJhcnRpY2xlX3d6X2lkIjoxODk5MiwidHlwZV9pZCI6MSwiaW5kZXgiOjF9) |
 | 2026-06-01 | 复旦大学 | [2026年复旦大学国际金融学院EMF2026系列招生活动全面启幕](https://mp.weixin.qq.com/s/S4T1625NEqNx12wdIrTtjw) |
 | 2026-05-29 | 香港中文大学（深圳） | [2026年香港中文大学（深圳）经管学院市场学理学硕士项目2027年秋季入学优秀大学生夏令营申请开启](https://mscmkt.cuhk.edu.cn/zh-hans/node/4032) |
+| 2026-05-26 | 浙江大学 | [2026年浙江大学管理学院IPhD2026夏令营活动通知](http://www.som.zju.edu.cn/2026/0508/c63512a3160037/page.htm) |
 | 2026-05-20 | 清华大学 | [2026年清华大学苏世民书院2027级招生简章](https://mp.weixin.qq.com/s/zyP58-SAW5AYIqsV23CTow) |
 | 2026-05-15 | 中国科学技术大学 | [2026年中国科学技术大学管理学院科技商学院第一届“量策未来”科商营报名通知](https://som.ustc.edu.cn/2026/0430/c29752a736675/page.htm) |
 | 2026-05-11 | 北京大学 | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |

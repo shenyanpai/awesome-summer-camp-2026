@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="136" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="135" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,6 +47,7 @@
 | 2026-06-18 | 华东政法大学 | [2026年华东政法大学知识产权学院2026年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2026/0415/c13461a225456/page.htm) |
 | 2026-06-15 | 暨南大学 | [2026年暨南大学国际关系学院第十一届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/oZqGrX0up305tkup2FKhFQ) |
 | 2026-06-10 | 北京大学 | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |
+| 2026-06-08 | 中国科学院大学 | [2026年中国科学院大学公共政策与管理学院2026年公共政策与管理全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/_sE7uDpfy0raO7M-Q_9o_w) |
 | ~~2026-04-07~~ | 北京大学 | [2026年北京大学国际法学院2027研招开放日报名启动](https://mp.weixin.qq.com/s/oo4zCHqBmZJfJfd6mSsNcA?scene=1) |
 
 ## 📝 数据来源
