@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -49,6 +49,14 @@
 |:------------:|:---------|
 | 2026-06-10 | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |
 | ~~2026-04-07~~ | [2026年北京大学国际法学院2027研招开放日报名启动](https://mp.weixin.qq.com/s/oo4zCHqBmZJfJfd6mSsNcA?scene=1) |
+
+<div align="center">
+<h3>南开大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-05-31 | [2026年南开大学周恩来政府管理学院中国政府发展联合研究中心“中国政府发展”全国研究生暑期学校](https://mp.weixin.qq.com/s/4jzjpVHeVKTalvDmKiHfTg?scene=1&click_id=2) |
 
 <div align="center">
 <h3>暨南大学</h3>

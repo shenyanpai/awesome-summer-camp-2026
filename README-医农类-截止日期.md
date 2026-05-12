@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -44,6 +44,7 @@
 | 截止时间 | 学校名称 | 通知 |
 |:------------:|:---------|:---------|
 | 2026-07-30 | 中国科学院 | [2026年中国科学院上海药物研究所2026年优秀大学生夏令营营员招募](https://simm.cas.cn/web/yjsjy/tzgg/202604/t20260420_8187569.html) |
+| 2026-06-30 | 北京协和医学院 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
 | 2026-06-30 | 中国科学院 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-22 | 中山大学 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
 | 2026-06-21 | 广州医科大学 | [2026年广州医科大学呼吸疾病全国重点实验室2026年暑期大学生夏令营](https://mp.weixin.qq.com/s/FkVTfbBcZjP36MTJSns5MQ) |

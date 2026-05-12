@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -46,6 +46,7 @@
 | 暂无 | 复旦大学 | [2026年复旦大学管理学院硕博连读项目线下博思体验营](https://mp.weixin.qq.com/s/2rdqY5YgQT-vsY5sb62knQ) |
 | 暂无 | 复旦大学 | [2026年复旦大学管理学院智科体验营同步开放申请](https://mp.weixin.qq.com/s/sn8E6DplJdDsnS2S3ZBLaQ) |
 | 暂无 | 南方科技大学 | [2026年南方科技大学商学院“可持续发展：科技 + 金融”夏令营招生简章](https://mp.weixin.qq.com/s/A0Ng4nD3Zbp7WUEXrpVBjA) |
+| 暂无 | 上海财经大学 | [2026年上海财经大学滴水湖高级金融学院2027级全日制金融硕士夏令营活动通知](https://mp.weixin.qq.com/s/L1-lA6-0Z6ckkzaCkegwyQ) |
 | 2026-06-15 | 澳门大学 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | 澳门大学 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
 | 2026-06-05 | 中国科学院大学 | [2026年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营报名通知](https://sem.ucas.ac.cn/article/article_xq_time/eyJ0aXRsZTEiOiLph43opoHpgJrnn6UiLCJhcnRpY2xlX3d6X2lkIjoxODk5MiwidHlwZV9pZCI6MSwiaW5kZXgiOjF9) |
@@ -54,7 +55,7 @@
 | 2026-05-26 | 浙江大学 | [2026年浙江大学管理学院IPhD2026夏令营活动通知](http://www.som.zju.edu.cn/2026/0508/c63512a3160037/page.htm) |
 | 2026-05-20 | 清华大学 | [2026年清华大学苏世民书院2027级招生简章](https://mp.weixin.qq.com/s/zyP58-SAW5AYIqsV23CTow) |
 | 2026-05-15 | 中国科学技术大学 | [2026年中国科学技术大学管理学院科技商学院第一届“量策未来”科商营报名通知](https://som.ustc.edu.cn/2026/0430/c29752a736675/page.htm) |
-| 2026-05-11 | 北京大学 | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
+| ~~2026-05-11~~ | 北京大学 | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
 | ~~2026-05-07~~ | 复旦大学 | [2026年复旦大学管理学院2027级招生系列活动正式启动](https://mp.weixin.qq.com/s/gKKT5TueB_KKn0lpEOm0XQ) |
 | ~~2026-04-30~~ | 香港中文大学（深圳） | [2026年香港中文大学（深圳）经管学院经济学硕士项目2026夏令营-Mini营考核安排](https://mp.weixin.qq.com/s/zaPvxhfI_ookGtz0WSF1XQ) |
 | ~~2026-03-30~~ | 南开大学 | [2026年南开大学国家创新与金融研究院卓越金融人才培养项目研究生选拔公告](https://mp.weixin.qq.com/s/u9RzDz8XNSJQBKEwRhoFJA) |

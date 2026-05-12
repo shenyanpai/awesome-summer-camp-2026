@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="133" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -55,7 +55,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-05-11 | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
+| ~~2026-05-11~~ | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
 
 <div align="center">
 <h3>浙江大学</h3>
@@ -99,6 +99,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年南方科技大学商学院“可持续发展：科技 + 金融”夏令营招生简章](https://mp.weixin.qq.com/s/A0Ng4nD3Zbp7WUEXrpVBjA) |
+
+<div align="center">
+<h3>上海财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2026年上海财经大学滴水湖高级金融学院2027级全日制金融硕士夏令营活动通知](https://mp.weixin.qq.com/s/L1-lA6-0Z6ckkzaCkegwyQ) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
