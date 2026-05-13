@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="131" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -49,6 +49,7 @@
 | 暂无 | 上海财经大学 | [2026年上海财经大学滴水湖高级金融学院2027级全日制金融硕士夏令营活动通知](https://mp.weixin.qq.com/s/L1-lA6-0Z6ckkzaCkegwyQ) |
 | 2026-06-15 | 澳门大学 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | 澳门大学 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
+| 2026-06-15 | 伊利诺伊大学 | [2026年美国伊利诺伊大学香槟分校商学院（UIUC）刘云川教授中美管理类“全球竞争力”GCPHD联合科研团队](https://nan) |
 | 2026-06-05 | 中国科学院大学 | [2026年中国科学院大学经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合夏令营报名通知](https://sem.ucas.ac.cn/article/article_xq_time/eyJ0aXRsZTEiOiLph43opoHpgJrnn6UiLCJhcnRpY2xlX3d6X2lkIjoxODk5MiwidHlwZV9pZCI6MSwiaW5kZXgiOjF9) |
 | 2026-06-01 | 复旦大学 | [2026年复旦大学国际金融学院EMF2026系列招生活动全面启幕](https://mp.weixin.qq.com/s/S4T1625NEqNx12wdIrTtjw) |
 | 2026-05-29 | 香港中文大学（深圳） | [2026年香港中文大学（深圳）经管学院市场学理学硕士项目2027年秋季入学优秀大学生夏令营申请开启](https://mscmkt.cuhk.edu.cn/zh-hans/node/4032) |

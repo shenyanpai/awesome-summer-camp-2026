@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="132" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="131" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -141,6 +141,14 @@
 |:------------:|:---------|
 | 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
+
+<div align="center">
+<h3>伊利诺伊大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-15 | [2026年美国伊利诺伊大学香槟分校商学院（UIUC）刘云川教授中美管理类“全球竞争力”GCPHD联合科研团队](https://nan) |
 
 ## 📝 数据来源
 
