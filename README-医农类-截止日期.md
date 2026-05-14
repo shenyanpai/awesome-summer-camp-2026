@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="131" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -44,13 +44,16 @@
 | 截止时间 | 学校名称 | 通知 |
 |:------------:|:---------|:---------|
 | 2026-07-30 | 中国科学院 | [2026年中国科学院上海药物研究所2026年优秀大学生夏令营营员招募](https://simm.cas.cn/web/yjsjy/tzgg/202604/t20260420_8187569.html) |
+| 2026-07-03 | 中国科学院 | [2026年中国科学院西双版纳热带植物园2026年优秀大学生夏令营报名通知](https://www.xtbg.ac.cn/2022/yjsjy/yjszsxx/202605/t20260513_8200681.html) |
 | 2026-06-30 | 北京协和医学院 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
 | 2026-06-30 | 中国科学院 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-22 | 中山大学 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
+| 2026-06-21 | 浙江大学 | [2026年浙江大学药学院暑期优秀大学生夏令营报名通知](http://www.cps.zju.edu.cn/2026/0514/c58875a3162709/page.htm) |
 | 2026-06-21 | 广州医科大学 | [2026年广州医科大学呼吸疾病全国重点实验室2026年暑期大学生夏令营](https://mp.weixin.qq.com/s/FkVTfbBcZjP36MTJSns5MQ) |
 | 2026-06-19 | 中国科学院 | [2026年中国科学院广州生物医药与健康研究院第二十届“走进GIBH”大学生夏令营报名通知](https://gibh.cas.cn/yjs/zsxx/xly/202604/t20260408_8183050.html) |
 | 2026-06-15 | 北京协和医学院 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
 | 2026-06-15 | 中国科学院 | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
+| 2026-06-13 | 浙江大学 | [2026年浙江大学转化医学研究院直博夏令营报名通知](https://itm.zju.edu.cn/notice/details-2xlygzjdxzhyxyjyzbxlybmtz-1545.html) |
 | 2026-06-08 | 中国医学科学院 | [2026年中国医学科学院血液病医院（中国医学科学院血液学研究所）第十六届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/cClnQIPSHvLq8AHUasE_8g) |
 | 2026-06-03 | 浙江大学 | [2026年浙江大学基础医学院关于举办2026年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2026/0506/c85156a3158495/page.htm) |
 | ~~2025-07-10~~ | 安徽医科大学 | [2026年安徽医科大学第一临床医学院（第一附属医院）2025年全国优秀大学生暑期夏令营招生通知](https://mp.weixin.qq.com/s/O6jvupsWxzc4tAUUf-A-1g) |
