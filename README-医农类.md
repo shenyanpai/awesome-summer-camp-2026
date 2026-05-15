@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -50,6 +50,7 @@
 | 2026-06-21 | [2026年浙江大学药学院暑期优秀大学生夏令营报名通知](http://www.cps.zju.edu.cn/2026/0514/c58875a3162709/page.htm) |
 | 2026-06-13 | [2026年浙江大学转化医学研究院直博夏令营报名通知](https://itm.zju.edu.cn/notice/details-2xlygzjdxzhyxyjyzbxlybmtz-1545.html) |
 | 2026-06-03 | [2026年浙江大学基础医学院关于举办2026年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2026/0506/c85156a3158495/page.htm) |
+| 2026-06-03 | [2026年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/SvFjuQBd5MJsJievSGWxYw) |
 
 <div align="center">
 <h3>中山大学</h3>
@@ -67,6 +68,14 @@
 |:------------:|:---------|
 | 2026-06-30 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
 | 2026-06-15 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
+
+<div align="center">
+<h3>南方科技大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-20 | [2026年南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营](https://mp.weixin.qq.com/s/b-CGobgc5XqMEr7UTjtOfA) |
 
 <div align="center">
 <h3>广州医科大学</h3>

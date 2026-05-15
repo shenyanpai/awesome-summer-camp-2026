@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="130" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -56,7 +56,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-05-28 | [2026年中国科学技术大学公共管理学院“公管知创·青春领航“科学营报名通知](https://xspt.ustc.edu.cn/logon) |
+| 2026-06-05 | [2026年中国科学技术大学公共管理学院“公管知创·青春领航“科学营报名通知](https://xspt.ustc.edu.cn/logon) |
 
 <div align="center">
 <h3>南开大学</h3>
