@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="129" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="127" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -82,7 +82,15 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-05-15 | [2026年中国科学技术大学管理学院科技商学院第一届“量策未来”科商营报名通知](https://som.ustc.edu.cn/2026/0430/c29752a736675/page.htm) |
+| ~~2026-05-15~~ | [2026年中国科学技术大学管理学院科技商学院第一届“量策未来”科商营报名通知](https://som.ustc.edu.cn/2026/0430/c29752a736675/page.htm) |
+
+<div align="center">
+<h3>西安交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-25 | [2026年西安交通大学管理学院2026年（第十六届）全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/ZG3mB--pHvS8c75ZrxhwgQ?click_id=21) |
 
 <div align="center">
 <h3>南开大学</h3>
@@ -139,8 +147,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
+| 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 
 <div align="center">
 <h3>伊利诺伊大学</h3>
