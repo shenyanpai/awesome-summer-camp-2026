@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="126" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="125" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -56,6 +56,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-15 | [2026年中国科学技术大学人文与社会科学学院2026年“智汇人文”科学营报名通知](https://hsss.ustc.edu.cn/2026/0519/c20043a741087/page.htm) |
 | 2026-06-05 | [2026年中国科学技术大学公共管理学院“公管知创·青春领航“科学营报名通知](https://xspt.ustc.edu.cn/logon) |
 
 <div align="center">
@@ -81,6 +82,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-18 | [2026年华东政法大学知识产权学院2026年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2026/0415/c13461a225456/page.htm) |
+
+<div align="center">
+<h3>北京第二外国语学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-15 | [2026年北京第二外国语学院日语学院2026年优秀大学生夏令营招生简章（一号通知）](https://mp.weixin.qq.com/s/1H25sm6P9lbwJkGYjDAr8A) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
