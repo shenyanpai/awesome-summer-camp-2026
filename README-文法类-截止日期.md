@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="120" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -46,6 +46,7 @@
 | 暂无 | 中国科学院大学 | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/S5UJ9smLMmqNvyn1YSyPJQ?scene=1&click_id=5) |
 | 2026-06-30 | 西安交通大学 | [2026年西安交通大学新闻与新媒体学院2026年（第八届）全国优秀大学生夏令营](https://xmtxy.xjtu.edu.cn/info/1054/11630.htm) |
 | 2026-06-23 | 西安交通大学 | [2026年西安交通大学公共政策与管理学院2026年（第十届）优秀大学生夏令营通知](https://mp.weixin.qq.com/s/7eQl1Z8I1usQD4LvR5t0mg) |
+| 2026-06-23 | 西安交通大学 | [2026年西安交通大学法学院2026年（第十二届）优秀大学生夏令营通知](https://fxy.xjtu.edu.cn/info/1103/7664.htm) |
 | 2026-06-18 | 华东政法大学 | [2026年华东政法大学知识产权学院2026年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2026/0415/c13461a225456/page.htm) |
 | 2026-06-15 | 中国科学技术大学 | [2026年中国科学技术大学人文与社会科学学院2026年“智汇人文”科学营报名通知](https://hsss.ustc.edu.cn/2026/0519/c20043a741087/page.htm) |
 | 2026-06-15 | 暨南大学 | [2026年暨南大学国际关系学院第十一届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/oZqGrX0up305tkup2FKhFQ) |
