@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -46,6 +46,7 @@
 | 2026-07-30 | 中国科学院 | [2026年中国科学院上海药物研究所2026年优秀大学生夏令营营员招募](https://simm.cas.cn/web/yjsjy/tzgg/202604/t20260420_8187569.html) |
 | 2026-07-03 | 中国科学院 | [2026年中国科学院西双版纳热带植物园2026年优秀大学生夏令营报名通知](https://www.xtbg.ac.cn/2022/yjsjy/yjszsxx/202605/t20260513_8200681.html) |
 | 2026-06-30 | 北京协和医学院 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
+| 2026-06-30 | 南方科技大学 | [2026年南方科技大学公共卫生及应急管理学院全国优秀大学生交流营通知](https://mp.weixin.qq.com/s/jaRNpAaZ_JDfuAjudOrlyA) |
 | 2026-06-30 | 中国科学院 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-28 | 中国科学院 | [2026年中国科学院植物研究所生态学优秀大学生夏令营活动开始报名](https://mp.weixin.qq.com/s/dkBjrPxIAwIBcIH_Xdbc1g?scene=1&click_id=46) |
 | 2026-06-22 | 中山大学 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
@@ -63,6 +64,7 @@
 | 2026-06-14 | 北京协和医学院 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg) |
 | 2026-06-14 | 北京协和医学院 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
 | 2026-06-13 | 浙江大学 | [2026年浙江大学转化医学研究院直博夏令营报名通知](https://itm.zju.edu.cn/notice/details-2xlygzjdxzhyxyjyzbxlybmtz-1545.html) |
+| 2026-06-10 | 北京协和医学院 | [2026年北京协和医学院北京医院国家老年医学中心2026年全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/index.php?r=archives/default/new&id=30136&t=1779754170) |
 | 2026-06-08 | 中国医学科学院 | [2026年中国医学科学院血液病医院（中国医学科学院血液学研究所）第十六届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/cClnQIPSHvLq8AHUasE_8g) |
 | 2026-06-06 | 北京协和医学院 | [2026年北京协和医学院比较医学中心（动研所）2026年大学生暑期夏令营活动通知](https://www.cnilas.org/index/shows?catid=116&id=1713) |
 | 2026-06-03 | 浙江大学 | [2026年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/SvFjuQBd5MJsJievSGWxYw) |

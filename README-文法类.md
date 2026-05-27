@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -69,6 +69,7 @@
 | 2026-06-30 | [2026年西安交通大学新闻与新媒体学院2026年（第八届）全国优秀大学生夏令营](https://xmtxy.xjtu.edu.cn/info/1054/11630.htm) |
 | 2026-06-23 | [2026年西安交通大学公共政策与管理学院2026年（第十届）优秀大学生夏令营通知](https://mp.weixin.qq.com/s/7eQl1Z8I1usQD4LvR5t0mg) |
 | 2026-06-23 | [2026年西安交通大学法学院2026年（第十二届）优秀大学生夏令营通知](https://fxy.xjtu.edu.cn/info/1103/7664.htm) |
+| 2026-06-14 | [2026年西安交通大学马克思主义学院2026年（第十届）全国优秀大学生夏令营通知](https://marx.xjtu.edu.cn/info/1013/9515.htm) |
 | 2026-06-12 | [2026年西安交通大学外国语学院2026年第十届）全国优秀大学生夏令营通知](https://sfs.xjtu.edu.cn/info/1243/8968.htm) |
 
 <div align="center">

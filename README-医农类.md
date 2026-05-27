@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="118" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -78,6 +78,7 @@
 | 2026-06-15 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
 | 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg) |
 | 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
+| 2026-06-10 | [2026年北京协和医学院北京医院国家老年医学中心2026年全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/index.php?r=archives/default/new&id=30136&t=1779754170) |
 | 2026-06-06 | [2026年北京协和医学院比较医学中心（动研所）2026年大学生暑期夏令营活动通知](https://www.cnilas.org/index/shows?catid=116&id=1713) |
 | 2026-06-01 | [2026年北京协和医学院医药生物技术研究所2026年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/ae62453e095a4617b624c85de8af211e.htm) |
 
@@ -87,6 +88,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-30 | [2026年南方科技大学公共卫生及应急管理学院全国优秀大学生交流营通知](https://mp.weixin.qq.com/s/jaRNpAaZ_JDfuAjudOrlyA) |
 | 2026-06-20 | [2026年南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营](https://mp.weixin.qq.com/s/b-CGobgc5XqMEr7UTjtOfA) |
 | 2026-06-15 | [2026年南方科技大学医学院“医路向南 医路精彩”全国优秀大学生交流营](https://mp.weixin.qq.com/s/HWl923-hWfFwBF8R5wSyVw) |
 
