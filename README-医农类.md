@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="114" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -75,9 +75,11 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-30 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
+| 2026-06-22 | [2026年北京协和医学院病原生物学研究所2026年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Dtq6XzHUHzJ9lS7VfVlSUw) |
+| 2026-06-17 | [2026年北京协和医学院药用植物研究所2026年全国优秀大学生暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=9369) |
 | 2026-06-15 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
-| 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
 | 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg) |
+| 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
 | 2026-06-10 | [2026年北京协和医学院北京医院国家老年医学中心2026年全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/index.php?r=archives/default/new&id=30136&t=1779754170) |
 | 2026-06-06 | [2026年北京协和医学院比较医学中心（动研所）2026年大学生暑期夏令营活动通知](https://www.cnilas.org/index/shows?catid=116&id=1713) |
 | 2026-06-01 | [2026年北京协和医学院医药生物技术研究所2026年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/ae62453e095a4617b624c85de8af211e.htm) |
@@ -129,8 +131,16 @@
 | 2026-06-21 | [2026年中国科学院动物研究所2026年优秀大学生夏令营活动招募计划](http://www.ioz.cas.cn/gb2018/xwdt/tzgg/202605/t20260520_8207266.html) |
 | 2026-06-21 | [2026年中国科学院大学杭州高等研究院分子医学院2026年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/qw0CVAvN04vjeeLTgimWaA) |
 | 2026-06-19 | [2026年中国科学院广州生物医药与健康研究院第二十届“走进GIBH”大学生夏令营报名通知](https://gibh.cas.cn/yjs/zsxx/xly/202604/t20260408_8183050.html) |
-| 2026-06-15 | [2026年中国科学院东北地理与农业生态研究所2026年“领略湿地，逐梦黑土”优秀大学生夏令营活动邀请函](http://www.iga.ac.cn/temp/notice/202605/t20260519_8204821.html) |
 | 2026-06-15 | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
+| 2026-06-15 | [2026年中国科学院东北地理与农业生态研究所2026年“领略湿地，逐梦黑土”优秀大学生夏令营活动邀请函](http://www.iga.ac.cn/temp/notice/202605/t20260519_8204821.html) |
+
+<div align="center">
+<h3>香港中文大学（深圳）</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-12 | [2026年香港中文大学（深圳）医学院生命科学与医学2026夏令营](https://mp.weixin.qq.com/s/zJ2HDqrOupK-NiCTRyAK4Q) |
 
 <div align="center">
 <h3>中国农业科学院</h3>
