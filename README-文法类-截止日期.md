@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -48,9 +48,11 @@
 | 2026-06-23 | 西安交通大学 | [2026年西安交通大学公共政策与管理学院2026年（第十届）优秀大学生夏令营通知](https://mp.weixin.qq.com/s/7eQl1Z8I1usQD4LvR5t0mg) |
 | 2026-06-23 | 西安交通大学 | [2026年西安交通大学法学院2026年（第十二届）优秀大学生夏令营通知](https://fxy.xjtu.edu.cn/info/1103/7664.htm) |
 | 2026-06-18 | 华东政法大学 | [2026年华东政法大学知识产权学院2026年“与名师面对面”夏令营招生简章](https://ipschool.ecupl.edu.cn/2026/0415/c13461a225456/page.htm) |
+| 2026-06-17 | 北京师范大学 | [2026年北京师范大学国家安全与应急管理学院2026年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/15XKG44gYKTgWh9SDTMEJQ?scene=1) |
 | 2026-06-15 | 中国科学技术大学 | [2026年中国科学技术大学人文与社会科学学院2026年“智汇人文”科学营报名通知](https://hsss.ustc.edu.cn/2026/0519/c20043a741087/page.htm) |
 | 2026-06-15 | 暨南大学 | [2026年暨南大学国际关系学院第十一届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/oZqGrX0up305tkup2FKhFQ) |
 | 2026-06-15 | 北京第二外国语学院 | [2026年北京第二外国语学院日语学院2026年优秀大学生夏令营招生简章（一号通知）](https://mp.weixin.qq.com/s/1H25sm6P9lbwJkGYjDAr8A) |
+| 2026-06-14 | 北京大学 | [2026年北京大学前沿交叉学科研究院科学技术与医学史系2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/fZdedsIDV9qwKQ29Sv-zhQ) |
 | 2026-06-14 | 西安交通大学 | [2026年西安交通大学马克思主义学院2026年（第十届）全国优秀大学生夏令营通知](https://marx.xjtu.edu.cn/info/1013/9515.htm) |
 | 2026-06-12 | 西安交通大学 | [2026年西安交通大学外国语学院2026年第十届）全国优秀大学生夏令营通知](https://sfs.xjtu.edu.cn/info/1243/8968.htm) |
 | 2026-06-10 | 北京大学 | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |

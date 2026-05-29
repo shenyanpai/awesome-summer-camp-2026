@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="117" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="115" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,6 +47,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-14 | [2026年北京大学前沿交叉学科研究院科学技术与医学史系2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/fZdedsIDV9qwKQ29Sv-zhQ) |
 | 2026-06-10 | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |
 | 2026-06-08 | [2026年北京大学燕京学堂2026年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/QdppbzFE6WjeI02R7mlW8A?scene=1&click_id=119) |
 | ~~2026-04-07~~ | [2026年北京大学国际法学院2027研招开放日报名启动](https://mp.weixin.qq.com/s/oo4zCHqBmZJfJfd6mSsNcA?scene=1) |
@@ -78,6 +79,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-17 | [2026年北京师范大学国家安全与应急管理学院2026年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/15XKG44gYKTgWh9SDTMEJQ?scene=1) |
 | 2026-06-08 | [2026年北京师范大学历史学院考古文博系全国优秀大学生夏令营活动通知](https://history.bnu.edu.cn/tzgg/cfe0653113bf4474a554b7572582b12d.htm) |
 
 <div align="center">
