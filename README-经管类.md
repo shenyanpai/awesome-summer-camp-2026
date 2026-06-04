@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="111" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="109" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -55,9 +55,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-16 | [2026年北京大学经济学院关于举办“2026年优秀大学生夏令营”活动的通知](https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm) |
 | 2026-06-16 | [2026年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6687.htm) |
 | 2026-06-16 | [2026年北京大学光华管理学院金融、会计（专业学位）夏令营通知](https://www.gsm.pku.edu.cn/mfin/info/1082/3204.htm) |
-| 2026-06-16 | [2026年北京大学经济学院关于举办“2026年优秀大学生夏令营”活动的通知](https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm) |
 | 2026-06-16 | [2026年北京大学新结构经济学研究院新结构经济学“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/yjspy/xjgjjxxly/a00a8f8101f046d3bfa4ab4f2537a277.htm) |
 | 2026-06-15 | [2026年北京大学现代农学院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/gSHgL0MC7wNcXn6ZYq0_nA) |
 | 2026-06-14 | [2026年北京大学国家发展研究院2026年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/bf5c8c5f998b41e39ced81b47d9fcc41.htm) |
@@ -83,8 +83,8 @@
 | 暂无 | [2026年复旦大学管理学院智科体验营同步开放申请](https://mp.weixin.qq.com/s/sn8E6DplJdDsnS2S3ZBLaQ) |
 | 暂无 | [2026年复旦大学管理学院硕博连读项目线下博思体验营](https://mp.weixin.qq.com/s/2rdqY5YgQT-vsY5sb62knQ) |
 | 2026-06-30 | [2026年复旦大学管理学院智科/领创体验活动最新申请日程公布](https://mp.weixin.qq.com/s/U3QpmgZOpDwfLENXZFB9Dw?scene=1&click_id=32) |
-| 2026-06-10 | [2026年复旦大学经济学院2026年全国优秀本科生直接攻博体验营活动报名通知](https://econ.fudan.edu.cn/info/1307/44427.htm) |
 | 2026-06-10 | [2026年复旦大学经济学院2026年全国优秀大学生专硕体验营活动通知](https://econ.fudan.edu.cn/info/1519/44407.htm) |
+| 2026-06-10 | [2026年复旦大学经济学院2026年全国优秀本科生直接攻博体验营活动报名通知](https://econ.fudan.edu.cn/info/1307/44427.htm) |
 | ~~2026-06-01~~ | [2026年复旦大学国际金融学院EMF2026系列招生活动全面启幕](https://mp.weixin.qq.com/s/S4T1625NEqNx12wdIrTtjw) |
 | ~~2026-05-07~~ | [2026年复旦大学管理学院2027级招生系列活动正式启动](https://mp.weixin.qq.com/s/gKKT5TueB_KKn0lpEOm0XQ) |
 
@@ -120,11 +120,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-15 | [2026年厦门大学经济学院经济学科2026年夏令营之一“第十八届全国优秀大学生经济学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55634.htm) |
-| 2026-06-15 | [2026年厦门大学王亚南经济研究院经济学科2026年夏令营之二“第十八届全国优秀大学生经济学（学硕）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55644.htm) |
-| 2026-06-15 | [2026年厦门大学邹至庄经济研究院经济学科2026年夏令营之三“第四届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55654.htm) |
 | 2026-06-15 | [2026年厦门大学经济学院经济学科2026年夏令营之四“第十二届全国优秀大学生金融硕士（含人工智能金融方向）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55664.htm) |
 | 2026-06-15 | [2026年厦门大学经济学院经济学科2026年夏令营之五“第十二届全国优秀大学生统计学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55674.htm) |
+| 2026-06-15 | [2026年厦门大学邹至庄经济研究院经济学科2026年夏令营之三“第四届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55654.htm) |
+| 2026-06-15 | [2026年厦门大学王亚南经济研究院经济学科2026年夏令营之二“第十八届全国优秀大学生经济学（学硕）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55644.htm) |
+| 2026-06-15 | [2026年厦门大学经济学院经济学科2026年夏令营之一“第十八届全国优秀大学生经济学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55634.htm) |
 
 <div align="center">
 <h3>南方科技大学</h3>
@@ -150,6 +150,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-24 | [2026年暨南大学经济与社会研究院IESR 2026年“AI与经济学前沿”夏令营报名开始](https://mp.weixin.qq.com/s/6VABLkSEFOwoDNGo4m7irg?from=industrynews&color_scheme=light&click_id=2020709243) |
+
+<div align="center">
+<h3>东华大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-23 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
@@ -182,8 +190,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
+| 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 
 <div align="center">
 <h3>伊利诺伊大学</h3>

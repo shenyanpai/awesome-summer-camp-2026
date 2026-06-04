@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="111" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="109" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -77,12 +77,21 @@
 | 2026-06-12 | [2026年西安交通大学外国语学院2026年第十届）全国优秀大学生夏令营通知](https://sfs.xjtu.edu.cn/info/1243/8968.htm) |
 
 <div align="center">
+<h3>四川大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-16 | [2026年四川大学法学院第八届法律实证研究夏令营申报通知](https://mp.weixin.qq.com/s/U2526NkjO_U8_c6E0PUraQ) |
+
+<div align="center">
 <h3>北京师范大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-17 | [2026年北京师范大学国家安全与应急管理学院2026年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/15XKG44gYKTgWh9SDTMEJQ?scene=1) |
+| 2026-06-15 | [2026年北京师范大学未来设计学院2026年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/IQemOR8lRB1Qbjzk7oiW8w) |
 | 2026-06-15 | [2026年北京师范大学政府管理学院信息资源管理专业2026年优秀大学生夏令营](http://www.sg.bnu.edu.cn/tzgg1/8b4e401de89f4f3fb340386137b93b3d.htm) |
 | 2026-06-08 | [2026年北京师范大学历史学院考古文博系全国优秀大学生夏令营活动通知](https://history.bnu.edu.cn/tzgg/cfe0653113bf4474a554b7572582b12d.htm) |
 
@@ -95,12 +104,36 @@
 | ~~2026-05-31~~ | [2026年南开大学周恩来政府管理学院中国政府发展联合研究中心“中国政府发展”全国研究生暑期学校](https://mp.weixin.qq.com/s/4jzjpVHeVKTalvDmKiHfTg?scene=1&click_id=2) |
 
 <div align="center">
+<h3>兰州大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-22 | [2026年兰州大学外国语学院2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/eHSb1VIItMHzV2BxUfpU9Q) |
+
+<div align="center">
 <h3>暨南大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-15 | [2026年暨南大学国际关系学院第十一届“东南亚、华侨华人与区域国际关系”夏令营招生启事](https://mp.weixin.qq.com/s/oZqGrX0up305tkup2FKhFQ) |
+
+<div align="center">
+<h3>云南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-15 | [2026年云南大学国际关系研究院第六届（2026年）周边外交与区域国别研究夏令营招生公告](http://www.gjgxxy.ynu.edu.cn/info/1019/2159.htm) |
+
+<div align="center">
+<h3>海南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-10 | [2026年海南大学亚利桑那州立大学国际学院夏令营开营](https://mp.weixin.qq.com/s/A_eK3WgMGNKbIc7CzdekpA) |
 
 <div align="center">
 <h3>华东政法大学</h3>
