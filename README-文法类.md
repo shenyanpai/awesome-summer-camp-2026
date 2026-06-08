@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="108" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="105" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -61,7 +61,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-15 | [2026年中国科学技术大学人文与社会科学学院2026年“智汇人文”科学营报名通知](https://hsss.ustc.edu.cn/2026/0519/c20043a741087/page.htm) |
-| 2026-06-05 | [2026年中国科学技术大学公共管理学院“公管知创·青春领航“科学营报名通知](https://xspt.ustc.edu.cn/logon) |
+| ~~2026-06-05~~ | [2026年中国科学技术大学公共管理学院“公管知创·青春领航“科学营报名通知](https://xspt.ustc.edu.cn/logon) |
 
 <div align="center">
 <h3>西安交通大学</h3>
@@ -71,8 +71,8 @@
 |:------------:|:---------|
 | 2026-07-02 | [2026年西安交通大学人文社会科学学院2026年（第十届）全国优秀大学生夏令营](https://rwxy.xjtu.edu.cn/info/1065/10476.htm) |
 | 2026-06-30 | [2026年西安交通大学新闻与新媒体学院2026年（第八届）全国优秀大学生夏令营](https://xmtxy.xjtu.edu.cn/info/1054/11630.htm) |
-| 2026-06-23 | [2026年西安交通大学法学院2026年（第十二届）优秀大学生夏令营通知](https://fxy.xjtu.edu.cn/info/1103/7664.htm) |
 | 2026-06-23 | [2026年西安交通大学公共政策与管理学院2026年（第十届）优秀大学生夏令营通知](https://mp.weixin.qq.com/s/7eQl1Z8I1usQD4LvR5t0mg) |
+| 2026-06-23 | [2026年西安交通大学法学院2026年（第十二届）优秀大学生夏令营通知](https://fxy.xjtu.edu.cn/info/1103/7664.htm) |
 | 2026-06-14 | [2026年西安交通大学马克思主义学院2026年（第十届）全国优秀大学生夏令营通知](https://marx.xjtu.edu.cn/info/1013/9515.htm) |
 | 2026-06-12 | [2026年西安交通大学外国语学院2026年第十届）全国优秀大学生夏令营通知](https://sfs.xjtu.edu.cn/info/1243/8968.htm) |
 
@@ -169,15 +169,22 @@
 | 2026-06-18 | [2026年贵州财经大学马克思主义学院2026年学术夏令营活动报名通知](https://maks.gufe.edu.cn/content2.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=2854) |
 
 <div align="center">
-<h3>中国科学院</h3>
+<h3>中国科学院大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/S5UJ9smLMmqNvyn1YSyPJQ?scene=1&click_id=5) |
-| 2026-06-29 | [2026年中国科学院自然科学史研究所2026年“科技历史与文化”大学生夏令营报名通知](https://mp.weixin.qq.com/s/NguqqUbKNtatiC7ow4Nxhw) |
 | 2026-06-15 | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动通知](https://mp.weixin.qq.com/s/2Lhk6Mi2wtMQABpfSZeKUA) |
 | 2026-06-08 | [2026年中国科学院大学公共政策与管理学院2026年公共政策与管理全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/_sE7uDpfy0raO7M-Q_9o_w) |
+
+<div align="center">
+<h3>中国科学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-29 | [2026年中国科学院自然科学史研究所2026年“科技历史与文化”大学生夏令营报名通知](https://mp.weixin.qq.com/s/NguqqUbKNtatiC7ow4Nxhw) |
 
 ## 📝 数据来源
 
