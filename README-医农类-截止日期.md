@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="105" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="103" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -48,21 +48,29 @@
 | 2026-07-10 | 中国科学院 | [2026年中国科学院深圳先进技术研究院生物医药与技术研究所第十届优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/HZXoLW-7XVd_Tp5eM6c6Lw) |
 | 2026-07-03 | 中国科学院 | [2026年中国科学院西双版纳热带植物园2026年优秀大学生夏令营报名通知](https://www.xtbg.ac.cn/2022/yjsjy/yjszsxx/202605/t20260513_8200681.html) |
 | 2026-07-02 | 南方医科大学 | [2026年南方医科大学粤港澳大湾区脑科学与类脑研究中心2026年“大湾区脑科学游学营”报名通知](https://portal.smu.edu.cn/bsbii/info/1011/3690.htm) |
+| 2026-07-01 | 中国疾病预防控制中心 | [2026年中国疾病预防控制中心慢性非传染性疾病预防控制中心关于举办2026年全国优秀大学生暑期夏令营活动的通知](https://mp.weixin.qq.com/s/a1fcGqAX0UbLiKhm0IJwaQ) |
 | 2026-06-30 | 北京协和医学院 | [2026年北京协和医学院输血研究所2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/k9dvnTajhWohUuQLgNYsTA) |
 | 2026-06-30 | 北京协和医学院 | [2026年北京协和医学院药物研究所2026年开放日活动通知](https://www.imm.ac.cn/tz/tzgg/e17bbbe7ac4e4effaeb5270130993f7d.htm) |
 | 2026-06-30 | 南方科技大学 | [2026年南方科技大学公共卫生及应急管理学院全国优秀大学生交流营通知](https://mp.weixin.qq.com/s/jaRNpAaZ_JDfuAjudOrlyA) |
 | 2026-06-30 | 上海大学 | [2026年上海大学医学院2026年“医心向远，逐光上大”全国优秀大学生暑期夏令营招生简章](https://medicine.shu.edu.cn/info/1054/17107.htm) |
 | 2026-06-30 | 中国科学院 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心2026年“未来之星”大学生夏令营招生通知](https://sjziam.cas.cn/xwdt/tzgg/202604/t20260423_8190249.html) |
 | 2026-06-28 | 中国科学院 | [2026年中国科学院植物研究所生态学优秀大学生夏令营活动开始报名](https://mp.weixin.qq.com/s/dkBjrPxIAwIBcIH_Xdbc1g?scene=1&click_id=46) |
+| 2026-06-28 | 中国农业科学院 | [2026年中国农业科学院蔬菜花卉研究所夏令营招生简章](https://ivf.caas.cn/xwdt/tzgg/4e83b9f8eaa645e39b3a3bcf13da9e3c.htm) |
+| 2026-06-26 | 兰州大学 | [2026年兰州大学第二医院（第二临床医学院）2026年优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/EGoZiwnEt4p_AeI-G5QtOw) |
+| 2026-06-25 | 浙江大学 | [2026年浙江大学医学院护理系关于举办“2026 年全国优秀大学生夏令营”的通知](http://www.cmm.zju.edu.cn/_upload/article/files/39/60/f9c688894415a7d10e15c39fba35/1e4f8973-c1f7-407f-9735-f1599d284091.pdf) |
 | 2026-06-25 | 中国科学技术大学 | [2026年中国科学技术大学附属第一医院第一届“医往无前”临床医学开放营报名通知](https://lcyx.ustc.edu.cn/2026/0605/c27509a743683/page.htm) |
 | 2026-06-25 | 中山大学 | [2026年中山大学中山医学院2026年全国优秀大学生夏令营活动通知](https://zssom.sysu.edu.cn/article/12137) |
+| 2026-06-24 | 北京协和医学院 | [2026年北京协和医学院医学信息研究所2026年优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/zgkGjCaXs7vdtqoAZC9mVQ) |
 | 2026-06-23 | 北京大学 | [2026年北京大学药学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sps.bjmu.edu.cn/zszp/zsxx/2026xly.htm) |
+| 2026-06-22 | 北京大学 | [2026年北京大学基础医学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sbms.bjmu.edu.cn/tzgg/c17f1f850d6f4f51bf9cd3c2e31fd397.htm) |
+| 2026-06-22 | 南京大学 | [2026年南京大学医学院2026年暑期开放日活动报名通知](https://med.nju.edu.cn/be/3d/c40983a835133/page.htm) |
 | 2026-06-22 | 中山大学 | [2026年中山大学中山医学院2026年基础医学“成长伙伴”暑期学校报名通知](https://mp.weixin.qq.com/s/hwCZAtM9nY8uUtC7HyiiOQ) |
 | 2026-06-22 | 北京协和医学院 | [2026年北京协和医学院病原生物学研究所2026年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/Dtq6XzHUHzJ9lS7VfVlSUw) |
 | 2026-06-22 | 海南大学 | [2026年海南大学南繁学院（三亚南繁研究院）2026年暑期大学生夏令营的通知](https://nanfan.hainanu.edu.cn/info/1029/9766.htm) |
 | 2026-06-22 | 中国科学院 | [2026年中国科学院昆明植物研究所举办2026年“药学暨植物王国”大学生夏令营的通知](https://mp.weixin.qq.com/s/1XJWwlBguSs4_wQCP1dLng) |
 | 2026-06-21 | 浙江大学 | [2026年浙江大学药学院暑期优秀大学生夏令营报名通知](http://www.cps.zju.edu.cn/2026/0514/c58875a3162709/page.htm) |
 | 2026-06-21 | 浙江大学 | [2026年浙江大学公共卫生学院 关于举办“2026年优秀大学生夏令营”的通知](http://www.phs.zju.edu.cn/2026/0605/c47204a3175399/page.htm) |
+| 2026-06-21 | 浙江大学 | [2026年浙江大学医学院儿科学院优秀大学生夏令营通知](https://www.zjuch.cn/news/default/id/13921/cid/363) |
 | 2026-06-21 | 广州医科大学 | [2026年广州医科大学呼吸疾病全国重点实验室2026年暑期大学生夏令营](https://mp.weixin.qq.com/s/FkVTfbBcZjP36MTJSns5MQ) |
 | 2026-06-21 | 中国科学院大学 | [2026年中国科学院大学杭州高等研究院分子医学院2026年全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/qw0CVAvN04vjeeLTgimWaA) |
 | 2026-06-21 | 中国科学院 | [2026年中国科学院动物研究所2026年优秀大学生夏令营活动招募计划](http://www.ioz.cas.cn/gb2018/xwdt/tzgg/202605/t20260520_8207266.html) |
@@ -86,7 +94,7 @@
 | 2026-06-12 | 香港中文大学（深圳） | [2026年香港中文大学（深圳）医学院生命科学与医学2026夏令营](https://mp.weixin.qq.com/s/zJ2HDqrOupK-NiCTRyAK4Q) |
 | 2026-06-12 | 中国农业科学院 | [2026年中国农业科学院蜜蜂研究所2026年大学生暑期实践活动通知](https://iar.caas.cn/xwdt/tzgg/b0baa4ab713840e18e285546ac9701ec.htm) |
 | 2026-06-10 | 北京协和医学院 | [2026年北京协和医学院北京医院国家老年医学中心2026年全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/index.php?r=archives/default/new&id=30136&t=1779754170) |
-| 2026-06-08 | 中国医学科学院 | [2026年中国医学科学院血液病医院（中国医学科学院血液学研究所）第十六届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/cClnQIPSHvLq8AHUasE_8g) |
+| ~~2026-06-08~~ | 中国医学科学院 | [2026年中国医学科学院血液病医院（中国医学科学院血液学研究所）第十六届优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/cClnQIPSHvLq8AHUasE_8g) |
 | ~~2026-06-06~~ | 北京协和医学院 | [2026年北京协和医学院比较医学中心（动研所）2026年大学生暑期夏令营活动通知](https://www.cnilas.org/index/shows?catid=116&id=1713) |
 | ~~2026-06-03~~ | 浙江大学 | [2026年浙江大学基础医学院关于举办2026年优秀大学生暑期夏令营的通知](https://bms.zju.edu.cn/2026/0506/c85156a3158495/page.htm) |
 | ~~2026-06-03~~ | 浙江大学 | [2026年浙江大学脑科学与脑医学学院全国优秀大学生暑期夏令营”的通知](https://mp.weixin.qq.com/s/SvFjuQBd5MJsJievSGWxYw) |

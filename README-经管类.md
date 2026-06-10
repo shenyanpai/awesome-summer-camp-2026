@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="105" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="103" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -107,12 +107,20 @@
 | 2026-06-15 | [2026年西安交通大学经济与金融学院2026年（第十届）优秀大学生夏令营通知](https://sef.xjtu.edu.cn/info/1423/33454.htm) |
 
 <div align="center">
+<h3>北京航空航天大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-22 | [2026年北京航空航天大学经济管理学院全日制专业2026年暑期学校活动通知](https://sem.buaa.edu.cn/info/1024/18040.htm) |
+
+<div align="center">
 <h3>南开大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-08 | [2026年南开大学旅游与服务学院旅游管理夏令营启动通知](https://tas.nankai.edu.cn/info/1071/6732.htm) |
+| ~~2026-06-08~~ | [2026年南开大学旅游与服务学院旅游管理夏令营启动通知](https://tas.nankai.edu.cn/info/1071/6732.htm) |
 | ~~2026-03-30~~ | [2026年南开大学国家创新与金融研究院卓越金融人才培养项目研究生选拔公告](https://mp.weixin.qq.com/s/u9RzDz8XNSJQBKEwRhoFJA) |
 
 <div align="center">
@@ -175,6 +183,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-23 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
+
+<div align="center">
+<h3>上海海事大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-21 | [2026年上海海事大学经济管理学院2026年优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/ZQKkGMe-vgM3-mb8k_A1lQ) |
 
 <div align="center">
 <h3>北京工商大学</h3>
