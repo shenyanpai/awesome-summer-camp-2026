@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="103" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="99" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -61,7 +61,7 @@
 | 2026-06-16 | [2026年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6687.htm) |
 | 2026-06-15 | [2026年北京大学现代农学院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/gSHgL0MC7wNcXn6ZYq0_nA) |
 | 2026-06-14 | [2026年北京大学国家发展研究院2026年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/bf5c8c5f998b41e39ced81b47d9fcc41.htm) |
-| 2026-06-10 | [2026年北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知](https://www.phbs.pku.edu.cn/info/1801/178531.htm) |
+| ~~2026-06-10~~ | [2026年北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知](https://www.phbs.pku.edu.cn/info/1801/178531.htm) |
 | ~~2026-05-11~~ | [2026年北京大学全球健康发展研究院北大-耶鲁全球健康经济学夏校 “AI赋能星球健康”](https://mp.weixin.qq.com/s/S9MCYqanT7bn5Y107jJDwA?scene=1&click_id=1) |
 
 <div align="center">
@@ -71,6 +71,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-20 | [2026年浙江大学国际联合商学院ZIBS OPEN DAY暨优秀大学生夏令营申请正式开启](https://zibs.zju.edu.cn/2026/0529/c83662a3167800/page.htm) |
+| 2026-06-20 | [2026年浙江大学经济学院经济学拔尖学生培养基地首期暑期学校的报名通知](https://mp.weixin.qq.com/s/wM0osf4N7AJYolZdyco8dQ?scene=1&click_id=912837394) |
 | ~~2026-05-26~~ | [2026年浙江大学管理学院IPhD2026夏令营活动通知](http://www.som.zju.edu.cn/2026/0508/c63512a3160037/page.htm) |
 | ~~2026-05-26~~ | [2026年浙江大学数据科学研究中心关于IPhD2026夏令营（管理学方向）招生通知](https://cds.zju.edu.cn/a/zsxx/3796.html) |
 
@@ -83,8 +84,8 @@
 | 暂无 | [2026年复旦大学管理学院硕博连读项目线下博思体验营](https://mp.weixin.qq.com/s/2rdqY5YgQT-vsY5sb62knQ) |
 | 暂无 | [2026年复旦大学管理学院智科体验营同步开放申请](https://mp.weixin.qq.com/s/sn8E6DplJdDsnS2S3ZBLaQ) |
 | 2026-06-30 | [2026年复旦大学管理学院智科/领创体验活动最新申请日程公布](https://mp.weixin.qq.com/s/U3QpmgZOpDwfLENXZFB9Dw?scene=1&click_id=32) |
-| 2026-06-10 | [2026年复旦大学经济学院2026年全国优秀大学生专硕体验营活动通知](https://econ.fudan.edu.cn/info/1519/44407.htm) |
-| 2026-06-10 | [2026年复旦大学经济学院2026年全国优秀本科生直接攻博体验营活动报名通知](https://econ.fudan.edu.cn/info/1307/44427.htm) |
+| ~~2026-06-10~~ | [2026年复旦大学经济学院2026年全国优秀大学生专硕体验营活动通知](https://econ.fudan.edu.cn/info/1519/44407.htm) |
+| ~~2026-06-10~~ | [2026年复旦大学经济学院2026年全国优秀本科生直接攻博体验营活动报名通知](https://econ.fudan.edu.cn/info/1307/44427.htm) |
 | ~~2026-06-01~~ | [2026年复旦大学国际金融学院EMF2026系列招生活动全面启幕](https://mp.weixin.qq.com/s/S4T1625NEqNx12wdIrTtjw) |
 | ~~2026-05-07~~ | [2026年复旦大学管理学院2027级招生系列活动正式启动](https://mp.weixin.qq.com/s/gKKT5TueB_KKn0lpEOm0XQ) |
 
@@ -161,6 +162,14 @@
 | 暂无 | [2026年上海财经大学滴水湖高级金融学院2027级全日制金融硕士夏令营活动通知](https://mp.weixin.qq.com/s/L1-lA6-0Z6ckkzaCkegwyQ) |
 
 <div align="center">
+<h3>兰州大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-28 | [2026年兰州大学管理学院2026年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/X48S_go0tuciTcWT3OkXdw) |
+
+<div align="center">
 <h3>暨南大学</h3>
 </div>
 
@@ -201,6 +210,22 @@
 | 2026-06-29 | [2026年北京工商大学经济学院2026年暑期学术探索营的通知](https://mp.weixin.qq.com/s/8Sir6T7IlrmR-wUowuPZWQ) |
 
 <div align="center">
+<h3>安徽财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-07-05 | [2026年安徽财经大学中国合作社研究院（合作经济研究中心）合作经济研究生专业关于举办“2026年全国优秀大学生夏令营”活动的通知](https://zghzs.aufe.edu.cn/2026/0612/c1104a249686/page.htm) |
+
+<div align="center">
+<h3>北京第二外国语学院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-30 | [2026年北京第二外国语学院旅游科学学院“2026年全国优秀大学生线上研学夏令营”活动正式开启报名](https://mp.weixin.qq.com/s/-Gb7V756IdmvpUtfn8tFKw) |
+
+<div align="center">
 <h3>中国科学院大学</h3>
 </div>
 
@@ -233,6 +258,14 @@
 |:------------:|:---------|
 | 2026-06-15 | [2026年澳門大學工商管理學院2026年學術夏令營火熱招募](https://mp.weixin.qq.com/s/cuzsn-koEHczr9ycfWyPMQ?scene=1&click_id=6) |
 | 2026-06-15 | [2026年澳門大学工商管理學院金融碩士夏令營現正接受申請](https://mp.weixin.qq.com/s/94VOE_qWbSMPwjW4GhjJbg?scene=1&click_id=30) |
+
+<div align="center">
+<h3>中国地质大学（武汉）</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-30 | [2026年中国地质大学（武汉）经济管理学院（MPAcc）2026年第十二届研招校园开放日活动方案](https://jgxy.cug.edu.cn/info/1133/18654.htm) |
 
 <div align="center">
 <h3>伊利诺伊大学</h3>
