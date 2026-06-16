@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="99" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="97" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,7 +47,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-15 | [2026年清华大学万科公共卫生与健康学院开放日报名通知](https://mp.weixin.qq.com/s/eyUkciRC0gBOazqTL7xdNw) |
+| ~~2026-06-15~~ | [2026年清华大学万科公共卫生与健康学院开放日报名通知](https://mp.weixin.qq.com/s/eyUkciRC0gBOazqTL7xdNw) |
 
 <div align="center">
 <h3>北京大学</h3>
@@ -55,6 +55,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-07-07 | [2026年北京大学第六医院关于举办“2026年全国优秀大学生夏令营”的通知](https://pkuh6.cn/Html/News/Articles/6956.html) |
+| 2026-07-03 | [2026年北京大学人民医院2026年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/B0aJryWiH-AZJwUiLpSC_g) |
+| 2026-06-30 | [2026年北京大学第一医院关于举办“2026年全国优秀大学生夏令营”的通知](https://www.pkufh.com/Html/News/Articles/69441.html) |
 | 2026-06-23 | [2026年北京大学药学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sps.bjmu.edu.cn/zszp/zsxx/2026xly.htm) |
 | 2026-06-23 | [2026年北京大学护理学院关于举办“2026年全国优秀大学生夏令营”的通知](https://nursing.bjmu.edu.cn/jyjx/tzgg2/0970cb710fe04528b505d80b93f5bccc.htm) |
 | 2026-06-23 | [2026年北京大学医学部医学技术研究院关于举办“2026年全国优秀大学生夏令营”活动的通知](https://imt.bjmu.edu.cn/zszp_2/zsxx_2/b135d2de991d45079c8a17293519eb80.htm) |
@@ -93,6 +96,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-30 | [2026年复旦大学生物医学研究院2026年全国优秀大学生夏令营报名通知](https://ibs.fudan.edu.cn/f2/f7/c21002a783095/page.htm) |
+| 2026-06-30 | [2026年复旦大学智能医学研究院2026年全国优秀大学生 夏令营报名通知](https://imi.fudan.edu.cn/info/1018/3163.htm) |
 | 2026-06-25 | [2026年复旦大学脑科学研究院2026年全国优秀大学生夏令营报名通知](https://iobs.fudan.edu.cn/f1/43/c48881a782659/page.htm) |
 | 2026-06-25 | [2026年复旦大学药学院2026年全国优秀大学生夏令营报名通知](https://spfdu.fudan.edu.cn/f1/c6/c28477a782790/page.htm) |
 
@@ -182,12 +186,20 @@
 | 2026-06-21 | [2026年北京协和医学院卫生健康管理政策学院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/4We72Z4ClUNJ_GWCjpfcXg) |
 | 2026-06-20 | [2026年北京协和医学院基础学院2026年全国优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/V8UyBYmWvF2AyzpGkLp6OQ?scene=1&click_id=284298398) |
 | 2026-06-17 | [2026年北京协和医学院药用植物研究所2026年全国优秀大学生暑期夏令营活动通知](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=9369) |
-| 2026-06-15 | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
-| 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg) |
-| 2026-06-14 | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
+| ~~2026-06-15~~ | [2026年北京协和医学院放射医学研究所2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/K99IZG3pYwsUQPy7c8zdXQ) |
+| ~~2026-06-14~~ | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg) |
+| ~~2026-06-14~~ | [2026年北京协和医学院脑和类脑学院2026年夏令营活动通知](https://mp.weixin.qq.com/s/QtE7KGKBNNyh5ov0Munagg?scene=1&click_id=45) |
 | ~~2026-06-10~~ | [2026年北京协和医学院北京医院国家老年医学中心2026年全国优秀大学生夏令营报名通知](https://www.bjhmoh.cn/index.php?r=archives/default/new&id=30136&t=1779754170) |
 | ~~2026-06-06~~ | [2026年北京协和医学院比较医学中心（动研所）2026年大学生暑期夏令营活动通知](https://www.cnilas.org/index/shows?catid=116&id=1713) |
 | ~~2026-06-01~~ | [2026年北京协和医学院医药生物技术研究所2026年全国优秀大学生暑期招生夏令营报名通知](https://www.imb.com.cn/jyjx/zsxx/ae62453e095a4617b624c85de8af211e.htm) |
+
+<div align="center">
+<h3>南开大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-25 | [2026年南开大学医学院优秀大学生夏令营通知](https://medical.nankai.edu.cn/2026/0615/c28585a598346/page.htm) |
 
 <div align="center">
 <h3>山东大学</h3>
@@ -196,10 +208,20 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-30 | [2026年山东大学齐鲁第二医院（第二临床学院）2026年全国优秀大学生夏令营活动通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16523.htm) |
+| 2026-06-30 | [2026年山东大学护理与康复学院2026年全国优秀大学生暑期夏令营](https://www.nursing.sdu.edu.cn/info/1064/5860.htm) |
 | 2026-06-24 | [2026年山东大学基础医学院 “齐鲁风”全国优秀大学生夏令营活动通知](http://www.bmsgrade.sdu.edu.cn/info/1004/9186.htm) |
+| 2026-06-23 | [2026年山东大学公共卫生学院2026年全国优秀大学生暑期夏令营报名通知](https://www.sph.sdu.edu.cn/info/1704/19897.htm) |
 | 2026-06-18 | [2026年山东大学药学院2026年度全国优秀大学生夏令营招生简章](https://www.pharm.sdu.edu.cn/yjsjy/info/1094/8493.htm) |
 | 2026-06-18 | [2026年山东大学齐鲁医院（第一临床学院）举办优秀大学生2026年暑期夏令营活动通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16522.htm) |
 | 2026-06-16 | [2026年山东大学高等医学研究院2026年全国优秀大学生夏令营报名通知](http://www.amri.sdu.edu.cn/info/1012/4093.htm) |
+
+<div align="center">
+<h3>厦门大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-25 | [2026年厦门大学公共卫生学院2026年优秀大学生暑期夏令营报名通知](https://sph.xmu.edu.cn/info/1701/72605.htm) |
 
 <div align="center">
 <h3>吉林大学</h3>
@@ -207,6 +229,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-28 | [2026年吉林大学基础医学院2026年校园学术活动开放日的通知](https://medicine.jlu.edu.cn/info/1308/14087.htm) |
 | 2026-06-25 | [2026年吉林大学动物科学学院2026年校园学术活动开放日的通知](https://dwkx.jlu.edu.cn/info/1072/8450.htm) |
 
 <div align="center">
@@ -217,7 +240,7 @@
 |:------------:|:---------|
 | 2026-06-30 | [2026年南方科技大学公共卫生及应急管理学院全国优秀大学生交流营通知](https://mp.weixin.qq.com/s/jaRNpAaZ_JDfuAjudOrlyA) |
 | 2026-06-20 | [2026年南方科技大学生物医学工程系2026年全国优秀大学生夏季交流营](https://mp.weixin.qq.com/s/b-CGobgc5XqMEr7UTjtOfA) |
-| 2026-06-15 | [2026年南方科技大学医学院“医路向南 医路精彩”全国优秀大学生交流营](https://mp.weixin.qq.com/s/HWl923-hWfFwBF8R5wSyVw) |
+| ~~2026-06-15~~ | [2026年南方科技大学医学院“医路向南 医路精彩”全国优秀大学生交流营](https://mp.weixin.qq.com/s/HWl923-hWfFwBF8R5wSyVw) |
 
 <div align="center">
 <h3>兰州大学</h3>
@@ -260,6 +283,46 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-26 | [2026年河海大学农业科学与工程学院2026年全国优秀大学生校园开放日及有关安排的通知](https://ngy.hhu.edu.cn/2026/0612/c10411a327909/page.htm) |
+
+<div align="center">
+<h3>西南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-07-03 | [2026年西南大学柑桔研究所 2026年“芸香谷”学术夏令营报名通知](https://mp.weixin.qq.com/s/o4EsgfxOCnHBXngsnWwnjg) |
+
+<div align="center">
+<h3>深圳大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-30 | [2026年深圳大学医学部基础医学暑期学校（2027）招生简章](https://med.szu.edu.cn/yjspy/zsgz/sqxly/content_11756) |
+
+<div align="center">
+<h3>西北农林科技大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-30 | [2026年西北农林科技大学林学院关于举办2026年优秀大学生夏令营的通知](https://cf.nwafu.edu.cn/tzgg/e1bfff35e70041b0a8670e8b2bc9ffd3.htm) |
+
+<div align="center">
+<h3>华南农业大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-24 | [2026年华南农业大学园艺学院关于举办2026年优秀大学生暑期夏令营的通知](https://yy.scau.edu.cn/2026/0616/c2448a437568/page.htm) |
+
+<div align="center">
+<h3>上海中医药大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-26 | [2026年上海中医药大学中西医结合医院全国优秀大学生暑期夏令营活动通知](https://aimshutcm.shutcm.edu.cn/2026/0615/c5913a174280/page.htm) |
 
 <div align="center">
 <h3>广州医科大学</h3>
@@ -317,8 +380,8 @@
 | 2026-06-21 | [2026年中国科学院动物研究所2026年优秀大学生夏令营活动招募计划](http://www.ioz.cas.cn/gb2018/xwdt/tzgg/202605/t20260520_8207266.html) |
 | 2026-06-21 | [2026年中国科学院杭州医学研究所2026年暑期科学夏令营报名通知](https://mp.weixin.qq.com/s/2osiJWpYDYNzO6EN7klHDQ) |
 | 2026-06-19 | [2026年中国科学院广州生物医药与健康研究院第二十届“走进GIBH”大学生夏令营报名通知](https://gibh.cas.cn/yjs/zsxx/xly/202604/t20260408_8183050.html) |
-| 2026-06-15 | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
-| 2026-06-15 | [2026年中国科学院东北地理与农业生态研究所2026年“领略湿地，逐梦黑土”优秀大学生夏令营活动邀请函](http://www.iga.ac.cn/temp/notice/202605/t20260519_8204821.html) |
+| ~~2026-06-15~~ | [2026年中国科学院华南植物园2026年优秀大学生”华植风采”夏令营活动开始报名](https://scbg.cas.cn/yjs/kjxt/xly/202604/t20260427_8191909.html) |
+| ~~2026-06-15~~ | [2026年中国科学院东北地理与农业生态研究所2026年“领略湿地，逐梦黑土”优秀大学生夏令营活动邀请函](http://www.iga.ac.cn/temp/notice/202605/t20260519_8204821.html) |
 
 <div align="center">
 <h3>香港中文大学（深圳）</h3>
