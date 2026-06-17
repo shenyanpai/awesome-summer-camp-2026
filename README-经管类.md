@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="97" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="95" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -55,10 +55,10 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-16 | [2026年北京大学经济学院关于举办“2026年优秀大学生夏令营”活动的通知](https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm) |
-| 2026-06-16 | [2026年北京大学新结构经济学研究院新结构经济学“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/yjspy/xjgjjxxly/a00a8f8101f046d3bfa4ab4f2537a277.htm) |
-| 2026-06-16 | [2026年北京大学光华管理学院金融、会计（专业学位）夏令营通知](https://www.gsm.pku.edu.cn/mfin/info/1082/3204.htm) |
-| 2026-06-16 | [2026年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6687.htm) |
+| ~~2026-06-16~~ | [2026年北京大学经济学院关于举办“2026年优秀大学生夏令营”活动的通知](https://econ.pku.edu.cn/jxxm/zsxxfb_20211202144549787517/cbcf209f9c5d4757bd4e5fb4f62d4bed.htm) |
+| ~~2026-06-16~~ | [2026年北京大学新结构经济学研究院新结构经济学“全国优秀大学生”夏令营报名通知](https://www.nse.pku.edu.cn/jxpy/yjspy/xjgjjxxly/a00a8f8101f046d3bfa4ab4f2537a277.htm) |
+| ~~2026-06-16~~ | [2026年北京大学光华管理学院金融、会计（专业学位）夏令营通知](https://www.gsm.pku.edu.cn/mfin/info/1082/3204.htm) |
+| ~~2026-06-16~~ | [2026年北京大学光华管理学院全国优秀大学生学术夏令营通知](https://www.gsm.pku.edu.cn/graduate/info/1030/6687.htm) |
 | ~~2026-06-15~~ | [2026年北京大学现代农学院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/gSHgL0MC7wNcXn6ZYq0_nA) |
 | ~~2026-06-14~~ | [2026年北京大学国家发展研究院2026年“全国经济学与管理学优秀大学生夏令营”活动通知](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/bf5c8c5f998b41e39ced81b47d9fcc41.htm) |
 | ~~2026-06-10~~ | [2026年北京大学汇丰商学院关于举办“2026年全国优秀大学生经济金融论坛”的通知](https://www.phbs.pku.edu.cn/info/1801/178531.htm) |
@@ -141,6 +141,14 @@
 | ~~2026-03-30~~ | [2026年南开大学国家创新与金融研究院卓越金融人才培养项目研究生选拔公告](https://mp.weixin.qq.com/s/u9RzDz8XNSJQBKEwRhoFJA) |
 
 <div align="center">
+<h3>山东大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-07-01 | [2026年山东大学经济研究院关于举办“2026年全国优秀大学生暑期夏令营”的通知](http://www.cer.sdu.edu.cn/info/1035/12465.htm) |
+
+<div align="center">
 <h3>厦门大学</h3>
 </div>
 
@@ -151,6 +159,22 @@
 | ~~2026-06-15~~ | [2026年厦门大学邹至庄经济研究院经济学科2026年夏令营之三“第四届全国优秀大学生数量经济学、数字经济夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55654.htm) |
 | ~~2026-06-15~~ | [2026年厦门大学经济学院经济学科2026年夏令营之四“第十二届全国优秀大学生金融硕士（含人工智能金融方向）夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55664.htm) |
 | ~~2026-06-15~~ | [2026年厦门大学经济学院经济学科2026年夏令营之五“第十二届全国优秀大学生统计学夏令营”报名指南](https://seyjszs.xmu.edu.cn/info/1026/55674.htm) |
+
+<div align="center">
+<h3>中南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-25 | [2026年中南大学商学院全国大学生暑期招生宣讲开放日活动通知](https://bs.csu.edu.cn/info/1045/26855.htm) |
+
+<div align="center">
+<h3>吉林大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-06-26 | [2026年吉林大学商学与管理学院2026年校园学术活动开放日的通知](https://sg.jlu.edu.cn/info/1081/22310.htm) |
 
 <div align="center">
 <h3>重庆大学</h3>
@@ -272,6 +296,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-26 | [2026年贵州财经大学应用经济学院2026年暑期学术夏令营活动招募通知](https://dsjyj.gufe.edu.cn/info/1261/6311.htm) |
 | 2026-06-21 | [2026年贵州财经大学工商管理学院2026年暑期学术夏令营营员招募通知](https://gsgl.gufe.edu.cn/info/1076/7236.htm) |
 
 <div align="center">

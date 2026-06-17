@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="97" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="95" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -50,7 +50,7 @@
 | 2026-06-25 | [2026年北京大学信息管理系关于举办“2026年全国优秀大学生夏令营”活动的通知](http://www.im.pku.edu.cn/zsxm/ssxm/f892661acd7e4f5bb15577bf3da54211.htm) |
 | 2026-06-23 | [2026年北京大学医学人文学院关于举办“2026年全国优秀大学生夏令营”的通知](https://shh.bjmu.edu.cn/tzgg2/15bd2f410b924b9faa88bb27adf254d9.htm) |
 | 2026-06-21 | [2026年北京大学国际法学院全国优秀大学生夏令营通知](https://stl.pku.edu.cn/cn/news/admissions/a4195.html) |
-| 2026-06-16 | [2026年北京大学光华管理学院2026“全国优秀大学生夏令营”（社会学方向）](https://mp.weixin.qq.com/s/ZBXiPOaqrX3_UQ9_nsHqQA) |
+| ~~2026-06-16~~ | [2026年北京大学光华管理学院2026“全国优秀大学生夏令营”（社会学方向）](https://mp.weixin.qq.com/s/ZBXiPOaqrX3_UQ9_nsHqQA) |
 | ~~2026-06-14~~ | [2026年北京大学前沿交叉学科研究院科学技术与医学史系2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/fZdedsIDV9qwKQ29Sv-zhQ) |
 | ~~2026-06-10~~ | [2026年北京大学人口研究所第九届“京港澳台”人口老龄化专题夏令营学员招募公告](https://mp.weixin.qq.com/s/HbXc-rJvhreCwIy-gSSyDQ?scene=1&click_id=8) |
 | ~~2026-06-08~~ | [2026年北京大学燕京学堂2026年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/QdppbzFE6WjeI02R7mlW8A?scene=1&click_id=119) |
@@ -93,7 +93,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-16 | [2026年四川大学法学院第八届法律实证研究夏令营申报通知](https://mp.weixin.qq.com/s/U2526NkjO_U8_c6E0PUraQ) |
+| ~~2026-06-16~~ | [2026年四川大学法学院第八届法律实证研究夏令营申报通知](https://mp.weixin.qq.com/s/U2526NkjO_U8_c6E0PUraQ) |
 
 <div align="center">
 <h3>中国人民大学</h3>
@@ -109,8 +109,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-17 | [2026年北京师范大学国家安全与应急管理学院2026年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/15XKG44gYKTgWh9SDTMEJQ?scene=1) |
-| 2026-06-17 | [2026年北京师范大学社会学院2026年全国优秀大学生夏令营报名通知](https://soc.bnu.edu.cn/zsjy/tzgg1/c0febbd129f243a2b29cab38e3eaa3f5.htm) |
+| ~~2026-06-17~~ | [2026年北京师范大学国家安全与应急管理学院2026年全国优秀大学生夏令营招生简章](https://mp.weixin.qq.com/s/15XKG44gYKTgWh9SDTMEJQ?scene=1) |
+| ~~2026-06-17~~ | [2026年北京师范大学社会学院2026年全国优秀大学生夏令营报名通知](https://soc.bnu.edu.cn/zsjy/tzgg1/c0febbd129f243a2b29cab38e3eaa3f5.htm) |
 | ~~2026-06-15~~ | [2026年北京师范大学政府管理学院信息资源管理专业2026年优秀大学生夏令营](http://www.sg.bnu.edu.cn/tzgg1/8b4e401de89f4f3fb340386137b93b3d.htm) |
 | ~~2026-06-15~~ | [2026年北京师范大学未来设计学院2026年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/IQemOR8lRB1Qbjzk7oiW8w) |
 | ~~2026-06-08~~ | [2026年北京师范大学历史学院考古文博系全国优秀大学生夏令营活动通知](https://history.bnu.edu.cn/tzgg/cfe0653113bf4474a554b7572582b12d.htm) |
@@ -137,8 +137,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-25 | [2026年吉林大学行政学院“学术活动开放日”的通知](https://adm.jlu.edu.cn/info/1109/30307.htm) |
 | 2026-06-20 | [2026年吉林大学法学院2026年“建构中国法学自主知识体系”主题校园学术活动开放日招募通知](https://law.jlu.edu.cn/info/1046/25338.htm) |
-| 2026-06-17 | [2026年吉林大学马克思主义学院2026年开展校园学术活动开放日的通知](https://marx.jlu.edu.cn/info/1080/9999.htm) |
+| ~~2026-06-17~~ | [2026年吉林大学马克思主义学院2026年开展校园学术活动开放日的通知](https://marx.jlu.edu.cn/info/1080/9999.htm) |
 
 <div align="center">
 <h3>重庆大学</h3>
@@ -164,6 +165,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-07-10 | [2026年兰州大学历史文化学院关于举办2026年“民族学与人类学优秀大学生夏令营”的通知](https://history.lzu.edu.cn/portal/article/index/id/1414/cid/32.html) |
 | 2026-07-02 | [2026年兰州大学法学院2026年全国优秀大学生夏令营活动通知](https://laws.lzu.edu.cn/tongzhigonggao/2026/0616/333200.html) |
 | 2026-07-01 | [2026年兰州大学政治与国际关系学院2026年优秀大学生夏令营活动通知](https://zgy.lzu.edu.cn/info/1081/6579.htm) |
 | 2026-06-30 | [2026年兰州大学马克思主义学院2026年优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/MRokCv_lbGCflkWu9UNuyg) |
@@ -185,6 +187,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-30 | [2026年南京师范大学公共管理学院政治学、国家安全学专业2026年优秀本科生“学院开放日”活动通知](https://spa.njnu.edu.cn/info/1053/51691.htm) |
+| 2026-06-30 | [2026年南京师范大学公共管理学院哲学专业2026年优秀本科生“学院开放日”活动通知](https://spa.njnu.edu.cn/info/1053/51661.htm) |
 
 <div align="center">
 <h3>中国政法大学</h3>
@@ -314,7 +317,7 @@
 | 暂无 | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动预通知](https://mp.weixin.qq.com/s/S5UJ9smLMmqNvyn1YSyPJQ?scene=1&click_id=5) |
 | 2026-06-22 | [2026年中国科学院大学外语系2026年“语言之光，翻译之桥，文学之梦”夏令营通知](https://foreign.ucas.ac.cn/tzgg/d496ea009d674990ab25efba940c0a38.htm) |
 | 2026-06-19 | [2026年中国科学院大学马克思主义学院2026年全国优秀大学生夏令营报名通知](https://marxism.ucas.ac.cn/index.php/tzgg/1616-2026-4) |
-| 2026-06-17 | [2026年中国科学院大学人文学院2026年“科学与人文”夏令营报名通知](https://renwen.ucas.ac.cn/index.php/ltjz/2015-01-20-10-11-10/57409-2026-13) |
+| ~~2026-06-17~~ | [2026年中国科学院大学人文学院2026年“科学与人文”夏令营报名通知](https://renwen.ucas.ac.cn/index.php/ltjz/2015-01-20-10-11-10/57409-2026-13) |
 | ~~2026-06-15~~ | [2026年中国科学院大学信息资源管理系2026年全国优秀大学生信息资源管理夏令营活动通知](https://mp.weixin.qq.com/s/2Lhk6Mi2wtMQABpfSZeKUA) |
 | ~~2026-06-08~~ | [2026年中国科学院大学公共政策与管理学院2026年公共政策与管理全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/_sE7uDpfy0raO7M-Q_9o_w) |
 
