@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="95" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="93" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,25 +47,34 @@
 | 暂无 | 复旦大学 | [2026年复旦大学管理学院智科体验营同步开放申请](https://mp.weixin.qq.com/s/sn8E6DplJdDsnS2S3ZBLaQ) |
 | 暂无 | 南方科技大学 | [2026年南方科技大学商学院“可持续发展：科技 + 金融”夏令营招生简章](https://mp.weixin.qq.com/s/A0Ng4nD3Zbp7WUEXrpVBjA) |
 | 暂无 | 上海财经大学 | [2026年上海财经大学滴水湖高级金融学院2027级全日制金融硕士夏令营活动通知](https://mp.weixin.qq.com/s/L1-lA6-0Z6ckkzaCkegwyQ) |
+| 2026-07-28 | 清华大学 | [2026年清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm) |
 | 2026-07-05 | 河海大学 | [2026年河海大学经济与金融学院2026年全国优秀大学生校园开放日及有关安排的通知](https://jjxy.hhu.edu.cn/2026/0616/c20380a328028/page.htm) |
 | 2026-07-05 | 深圳大学 | [2026年深圳大学中国经济特区研究中心“经济学前沿理论与方法训练营” 暑期学校报名通知](https://mp.weixin.qq.com/s/yKIlz8Hp_wST8a64cUe-WQ) |
 | 2026-07-05 | 湘潭大学 | [2026年湘潭大学商学院2026年夏令营招生方案](https://business.xtu.edu.cn/?cc=cindex&cd=news&ac=view&id=202606150001) |
 | 2026-07-05 | 安徽财经大学 | [2026年安徽财经大学中国合作社研究院（合作经济研究中心）合作经济研究生专业关于举办“2026年全国优秀大学生夏令营”活动的通知](https://zghzs.aufe.edu.cn/2026/0612/c1104a249686/page.htm) |
+| 2026-07-03 | 河海大学 | [2026年河海大学商学院2026年全国优秀大学生校园开放日及有关安排的通知](https://hhbs.hhu.edu.cn/2026/0618/c23086a328152/page.htm) |
 | 2026-07-01 | 山东大学 | [2026年山东大学经济研究院关于举办“2026年全国优秀大学生暑期夏令营”的通知](http://www.cer.sdu.edu.cn/info/1035/12465.htm) |
+| 2026-07-01 | 深圳大学 | [2026年深圳大学微众银行金融科技学院2027年“湾区（深圳）数字金融”暑期交流活动通知发布](https://mp.weixin.qq.com/s/bRp42ZoPZKQaGJ35NcS96w?scene=1&click_id=1367948712) |
 | 2026-06-30 | 复旦大学 | [2026年复旦大学管理学院智科/领创体验活动最新申请日程公布](https://mp.weixin.qq.com/s/U3QpmgZOpDwfLENXZFB9Dw?scene=1&click_id=32) |
 | 2026-06-30 | 西安交通大学 | [2026年西安交通大学金禾经济研究中心2026年（第七届）优秀大学生夏令营通知](https://jinhe.xjtu.edu.cn/info/1045/2649.htm) |
+| 2026-06-30 | 南京师范大学 | [2026年南京师范大学商学院2026年“学院开放日”活动公告](https://sxy.njnu.edu.cn/info/1082/11327.htm) |
 | 2026-06-30 | 北京第二外国语学院 | [2026年北京第二外国语学院旅游科学学院“2026年全国优秀大学生线上研学夏令营”活动正式开启报名](https://mp.weixin.qq.com/s/-Gb7V756IdmvpUtfn8tFKw) |
 | 2026-06-30 | 中国地质大学（武汉） | [2026年中国地质大学（武汉）经济管理学院（MPAcc）2026年第十二届研招校园开放日活动方案](https://jgxy.cug.edu.cn/info/1133/18654.htm) |
 | 2026-06-30 | 中国地质大学（武汉） | [2026年中国地质大学（武汉）经济管理学院2026年第十二届研招校园开放日活动方案](https://jgxy.cug.edu.cn/info/1133/18724.htm) |
+| 2026-06-29 | 哈尔滨工业大学 | [2026年哈尔滨工业大学经济与管理学院2026年学术交流营活动通知](https://mp.weixin.qq.com/s/92aUHuryFRZVyx5f45FBAA?scene=1&click_id=318004524) |
 | 2026-06-29 | 东华大学 | [2026年东华大学旭日工商管理学院2026年MPAcc/MF/MIB全国优秀大学生夏令营活动通知](https://glxy.dhu.edu.cn/2026/0615/c20141a377386/page.htm) |
 | 2026-06-29 | 北京工商大学 | [2026年北京工商大学经济学院2026年暑期学术探索营的通知](https://mp.weixin.qq.com/s/8Sir6T7IlrmR-wUowuPZWQ) |
+| 2026-06-29 | 北京信息科技大学 | [2026年北京信息科技大学商学院关于开展2026年数智交叉·文理融通管理、经济与传播暑假优秀大学生夏令营的通知](https://bs.bistu.edu.cn/tzgg/4ac4f58565d8478791f9649758f4dd81.htm) |
 | 2026-06-28 | 兰州大学 | [2026年兰州大学管理学院2026年全国优秀大学生夏令营活动](https://mp.weixin.qq.com/s/X48S_go0tuciTcWT3OkXdw) |
 | 2026-06-26 | 四川大学 | [2026年四川大学灾后重建与管理学院关于举办2026年优秀大学生暑期夏令营的通知](https://idmr.scu.edu.cn/info/1054/3738.htm) |
 | 2026-06-26 | 吉林大学 | [2026年吉林大学商学与管理学院2026年校园学术活动开放日的通知](https://sg.jlu.edu.cn/info/1081/22310.htm) |
 | 2026-06-26 | 江西财经大学 | [2026年江西财经大学工商管理学院“2026年全国优秀大学生暑期夏令营”活动的通知](https://business.jxufe.edu.cn/news-show-13400.html) |
 | 2026-06-26 | 贵州财经大学 | [2026年贵州财经大学应用经济学院2026年暑期学术夏令营活动招募通知](https://dsjyj.gufe.edu.cn/info/1261/6311.htm) |
+| 2026-06-25 | 武汉大学 | [2026年武汉大学经济与管理学院2026年学科交流论坛报名通知](https://ems.whu.edu.cn/info/2016/303361.htm) |
 | 2026-06-25 | 西安交通大学 | [2026年西安交通大学管理学院2026年（第十六届）全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/ZG3mB--pHvS8c75ZrxhwgQ?click_id=21) |
+| 2026-06-25 | 北京理工大学 | [2026年北京理工大学管理学院2026年全国优秀大学生暑期夏令营招生简章](https://som.bit.edu.cn/gbxwzx/tzgg/4bb73e4ecb3d4045a327c82b67ff29ad.htm) |
 | 2026-06-25 | 中南大学 | [2026年中南大学商学院全国大学生暑期招生宣讲开放日活动通知](https://bs.csu.edu.cn/info/1045/26855.htm) |
+| 2026-06-25 | 北京交通大学 | [2026年北京交通大学经济管理学院2026年“第十六届全国优秀大学生夏令营”活动方案](https://sem.bjtu.edu.cn/show-464-23623.html) |
 | 2026-06-24 | 暨南大学 | [2026年暨南大学经济与社会研究院IESR 2026年“AI与经济学前沿”夏令营报名开始](https://mp.weixin.qq.com/s/6VABLkSEFOwoDNGo4m7irg?from=industrynews&color_scheme=light&click_id=2020709243) |
 | 2026-06-23 | 东华大学 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
 | 2026-06-22 | 北京航空航天大学 | [2026年北京航空航天大学经济管理学院全日制专业2026年暑期学校活动通知](https://sem.buaa.edu.cn/info/1024/18040.htm) |
