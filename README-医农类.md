@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="90" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="89" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -58,10 +58,10 @@
 | 2026-07-07 | [2026年北京大学第六医院关于举办“2026年全国优秀大学生夏令营”的通知](https://pkuh6.cn/Html/News/Articles/6956.html) |
 | 2026-07-03 | [2026年北京大学人民医院2026年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/B0aJryWiH-AZJwUiLpSC_g) |
 | 2026-06-30 | [2026年北京大学第一医院关于举办“2026年全国优秀大学生夏令营”的通知](https://www.pkufh.com/Html/News/Articles/69441.html) |
-| 2026-06-23 | [2026年北京大学药学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sps.bjmu.edu.cn/zszp/zsxx/2026xly.htm) |
-| 2026-06-23 | [2026年北京大学护理学院关于举办“2026年全国优秀大学生夏令营”的通知](https://nursing.bjmu.edu.cn/jyjx/tzgg2/0970cb710fe04528b505d80b93f5bccc.htm) |
-| 2026-06-23 | [2026年北京大学医学部医学技术研究院关于举办“2026年全国优秀大学生夏令营”活动的通知](https://imt.bjmu.edu.cn/zszp_2/zsxx_2/b135d2de991d45079c8a17293519eb80.htm) |
-| 2026-06-23 | [2026年北京大学临床医学高等研究院关于举办“2026年全国优秀大学生夏令营”的通知](https://iacm.bjmu.edu.cn/jypx/zsdt/bsssyjs/ff524a017c7e4552acf627d7d2b3d1da.htm) |
+| ~~2026-06-23~~ | [2026年北京大学药学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sps.bjmu.edu.cn/zszp/zsxx/2026xly.htm) |
+| ~~2026-06-23~~ | [2026年北京大学护理学院关于举办“2026年全国优秀大学生夏令营”的通知](https://nursing.bjmu.edu.cn/jyjx/tzgg2/0970cb710fe04528b505d80b93f5bccc.htm) |
+| ~~2026-06-23~~ | [2026年北京大学医学部医学技术研究院关于举办“2026年全国优秀大学生夏令营”活动的通知](https://imt.bjmu.edu.cn/zszp_2/zsxx_2/b135d2de991d45079c8a17293519eb80.htm) |
+| ~~2026-06-23~~ | [2026年北京大学临床医学高等研究院关于举办“2026年全国优秀大学生夏令营”的通知](https://iacm.bjmu.edu.cn/jypx/zsdt/bsssyjs/ff524a017c7e4552acf627d7d2b3d1da.htm) |
 | ~~2026-06-22~~ | [2026年北京大学基础医学院关于举办“2026年全国优秀大学生夏令营”的通知](https://sbms.bjmu.edu.cn/tzgg/c17f1f850d6f4f51bf9cd3c2e31fd397.htm) |
 
 <div align="center">
@@ -172,6 +172,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-07-05 | [2026年哈尔滨工业大学（深圳）医工学院关于举办2026年学术交流营的通知](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=3252) |
 | ~~2026-06-21~~ | [2026年哈尔滨工业大学生命科学和医学学部2026年学术交流营活动的通知](https://med.hit.edu.cn/2026/0611/c12995a393987/page.htm) |
 
 <div align="center">
@@ -213,6 +214,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-07-02 | [2026年南开大学药学院药学优秀大学生夏令营公告](https://pharmacy.nankai.edu.cn/info/1035/3485.htm) |
 | 2026-06-25 | [2026年南开大学医学院优秀大学生夏令营通知](https://medical.nankai.edu.cn/2026/0615/c28585a598346/page.htm) |
 
 <div align="center">
@@ -224,7 +226,7 @@
 | 2026-06-30 | [2026年山东大学齐鲁第二医院（第二临床学院）2026年全国优秀大学生夏令营活动通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16523.htm) |
 | 2026-06-30 | [2026年山东大学护理与康复学院2026年全国优秀大学生暑期夏令营](https://www.nursing.sdu.edu.cn/info/1064/5860.htm) |
 | 2026-06-24 | [2026年山东大学基础医学院 “齐鲁风”全国优秀大学生夏令营活动通知](http://www.bmsgrade.sdu.edu.cn/info/1004/9186.htm) |
-| 2026-06-23 | [2026年山东大学公共卫生学院2026年全国优秀大学生暑期夏令营报名通知](https://www.sph.sdu.edu.cn/info/1704/19897.htm) |
+| ~~2026-06-23~~ | [2026年山东大学公共卫生学院2026年全国优秀大学生暑期夏令营报名通知](https://www.sph.sdu.edu.cn/info/1704/19897.htm) |
 | ~~2026-06-18~~ | [2026年山东大学药学院2026年度全国优秀大学生夏令营招生简章](https://www.pharm.sdu.edu.cn/yjsjy/info/1094/8493.htm) |
 | ~~2026-06-18~~ | [2026年山东大学齐鲁医院（第一临床学院）举办优秀大学生2026年暑期夏令营活动通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16522.htm) |
 | ~~2026-06-16~~ | [2026年山东大学高等医学研究院2026年全国优秀大学生夏令营报名通知](http://www.amri.sdu.edu.cn/info/1012/4093.htm) |
@@ -249,6 +251,14 @@
 | 2026-06-25 | [2026年吉林大学动物科学学院2026年校园学术活动开放日的通知](https://dwkx.jlu.edu.cn/info/1072/8450.htm) |
 
 <div align="center">
+<h3>华东师范大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-07-07 | [2026年华东师范大学药学院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/ubV4OhWVTBJ4Xwp1VjT6Iw) |
+
+<div align="center">
 <h3>南方科技大学</h3>
 </div>
 
@@ -266,6 +276,7 @@
 |:------------:|:---------|
 | 2026-07-01 | [2026年兰州大学口腔医学院2026年优秀大学生暑期夏令营”活动的通知](https://kqyxy.lzu.edu.cn/tongzhigonggao/2026/0611/333040.html) |
 | 2026-07-01 | [2026年兰州大学药学院2026年优秀大学生暑期夏令营活动通知](https://yxy.lzu.edu.cn/col_tzgg6/202606/0069EFE3CA0E2E8790012B0E5F18DE73.htm) |
+| 2026-06-30 | [2026年兰州大学第一临床医学院关于举办2026年优秀大学生暑期夏令营活动的通知](https://www.lzdxdyyy.com/Web/SpecialTopic/Detail/46bebe5a-bbbb-525f-d621-3a2200b00591?rootTypeId=121) |
 | 2026-06-28 | [2026年兰州大学护理学院2026年优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/FFQotA1OrwtZnz92IwcDbA) |
 | 2026-06-26 | [2026年兰州大学第二医院（第二临床医学院）2026年优秀大学生暑期夏令营活动通知](https://mp.weixin.qq.com/s/EGoZiwnEt4p_AeI-G5QtOw) |
 | 2026-06-25 | [2026年兰州大学公共卫生学院2026年优秀大学生暑期夏令营活动通知](https://sph.lzu.edu.cn/rencaipeiyang/yanjiusheng/zhaosheng/2026/0609/332894.html) |
@@ -284,6 +295,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-06-29 | [2026年华中农业大学动物科学技术学院动物医学院2026年第九届夏令营招生简章](https://my.hzau.edu.cn/info/1065/27423.htm) |
 | 2026-06-26 | [2026年华中农业大学植物科学技术学院2026年全国优秀大学生研学营招生公告](https://cpst.hzau.edu.cn/info/1252/34370.htm) |
 
 <div align="center">
@@ -293,6 +305,19 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-24 | [2026年南京医科大学护理学院2026年暑期开放日活动报名通知](https://hlxy.njmu.edu.cn/2026/0618/c11359a303441/page.htm) |
+
+<div align="center">
+<h3>天津医科大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-07-09 | [2026年天津医科大学附属南开医院2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
+| 2026-07-07 | [2026年天津医科大学药学院2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
+| 2026-07-06 | [2026年天津医科大学医学技术学部2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
+| 2026-07-03 | [2026年天津医科大学朱宪彝纪念医院2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
+| 2026-07-03 | [2026年天津医科大学口腔医学院2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
+| 2026-06-30 | [2026年天津医科大学生物医学工程与技术学院2026年度优秀大学生暑期夏令营活动方案](https://gs.tmu.edu.cn/2026/0623/c3145a88554/page.htm) |
 
 <div align="center">
 <h3>上海大学</h3>
@@ -399,7 +424,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-06-23 | [2026年上海体育大学运动健康学院2026年优秀本科生暑期夏令营招生通知](https://mp.weixin.qq.com/s/lbKSTkUHmTEA71JPFMSMsg) |
+| ~~2026-06-23~~ | [2026年上海体育大学运动健康学院2026年优秀本科生暑期夏令营招生通知](https://mp.weixin.qq.com/s/lbKSTkUHmTEA71JPFMSMsg) |
 
 <div align="center">
 <h3>陕西中医药大学</h3>

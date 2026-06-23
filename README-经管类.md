@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="90" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="89" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -286,7 +286,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-06-29 | [2026年东华大学旭日工商管理学院2026年MPAcc/MF/MIB全国优秀大学生夏令营活动通知](https://glxy.dhu.edu.cn/2026/0615/c20141a377386/page.htm) |
-| 2026-06-23 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
+| ~~2026-06-23~~ | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
 
 <div align="center">
 <h3>湘潭大学</h3>

@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="90" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="89" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -79,7 +79,7 @@
 | 2026-06-25 | 中南大学 | [2026年中南大学商学院全国大学生暑期招生宣讲开放日活动通知](https://bs.csu.edu.cn/info/1045/26855.htm) |
 | 2026-06-25 | 北京交通大学 | [2026年北京交通大学经济管理学院2026年“第十六届全国优秀大学生夏令营”活动方案](https://sem.bjtu.edu.cn/show-464-23623.html) |
 | 2026-06-24 | 暨南大学 | [2026年暨南大学经济与社会研究院IESR 2026年“AI与经济学前沿”夏令营报名开始](https://mp.weixin.qq.com/s/6VABLkSEFOwoDNGo4m7irg?from=industrynews&color_scheme=light&click_id=2020709243) |
-| 2026-06-23 | 东华大学 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
+| ~~2026-06-23~~ | 东华大学 | [2026年东华大学旭日工商管理学院2026年全国优秀大学生夏令营活动通知（学硕）](https://glxy.dhu.edu.cn/2026/0603/c20141a376892/page.htm) |
 | ~~2026-06-22~~ | 北京航空航天大学 | [2026年北京航空航天大学经济管理学院全日制专业2026年暑期学校活动通知](https://sem.buaa.edu.cn/info/1024/18040.htm) |
 | ~~2026-06-21~~ | 华中科技大学 | [2026年华中科技大学管理学院2026年“全国优秀大学生暑期夏令营”学术型招募启事](https://cm.hust.edu.cn/info/2137/37598.htm) |
 | ~~2026-06-21~~ | 重庆大学 | [2026年重庆大学经济与工商管理学院关于开展“2026年研究生学术交流周”活动的通知](https://ceba.cqu.edu.cn/info/1087/4057.htm) |
