@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="55" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="51" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -306,6 +306,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-08-09 | [2026年南京农业大学人文与社会发展学院“农脉传薪：中国农业遗产与科技文明”科学技术史2026年第六届暑期学校招募通知](https://mp.weixin.qq.com/s/3EmUX8uGGDB2xo3gyMFllg) |
 | ~~2026-06-28~~ | [2026年南京农业大学公共管理学院2026年全国优秀学子“行知”夏令营活动通知](https://mp.weixin.qq.com/s/Vi2UnvJ8QX2RuCt65e1a3w) |
 
 <div align="center">
@@ -337,6 +338,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | ~~2026-07-05~~ | [2026年中国政法大学证据科学研究院首届司法文明·证据科学暑期学校招生简章](https://mp.weixin.qq.com/s/Kh3pf3PKh5-fRgOEtW2pdw) |
+
+<div align="center">
+<h3>上海大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-08-12 | [2026年上海大学文学院活动通知  2026年政治学与国际事务专业全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/uOqdQAfYB1f9M6lFzuMmZg) |
 
 <div align="center">
 <h3>河海大学</h3>
@@ -524,6 +533,7 @@
 | ~~2026-07-25~~ | [2026年北京语言大学国别和区域研究院2026年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/S8Qo9eyy8X6EAhgxQHGh1Q) |
 | ~~2026-07-15~~ | [2026年北京语言大学外国语言文化学院2026年“全国优秀大学生暑期夏令营”活动通知](https://mp.weixin.qq.com/s/8uVCN6jg3WMH3SxVVwgxHg) |
 | ~~2026-07-12~~ | [2026年北京语言大学文学院2026年全国优秀大学生夏令营活动简章](https://mp.weixin.qq.com/s/qGyIkYwuPTPegT6i0YSslA) |
+| ~~2026-07-12~~ | [2026年北京语言大学国际中文学院国际中文教育专业2026年全国优秀大学生夏令营活动简章](https://cics.blcu.edu.cn/info/1018/6002.htm) |
 | ~~2026-07-08~~ | [2026年北京语言大学语言科学与资源学院举办2026年全国优秀大学生夏令营的通知](https://mp.weixin.qq.com/s/239LLncm2oFFDbcauq6ylw) |
 | ~~2026-07-06~~ | [2026年北京语言大学国际政治与传播学院优秀学子夏令营](https://sjc.blcu.edu.cn/info/1128/3323.htm) |
 | ~~2026-06-26~~ | [2026年北京语言大学英语和高级翻译学院外国语言学及应用语言学、英语语言文学、翻译学 2026年“全国优秀大学生暑期夏令营”活动通知](https://mp.weixin.qq.com/s/-tQ_vbmsi4e6NpeR5TSEUw) |

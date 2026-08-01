@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="55" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="51" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,8 +47,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-07-28 | [2026年清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm) |
-| 2026-07-28 | [2026年清华大学五道口金融学院2027年接收优秀应届本科毕业生免试攻读研究生报名的通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/10498.htm) |
+| ~~2026-07-28~~ | [2026年清华大学经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生报名的通知 （金融硕士/管理硕士/清华大学-哥伦比亚大学商务分析双硕士学位项目）](https://masters.sem.tsinghua.edu.cn/info/1291/3612.htm) |
+| ~~2026-07-28~~ | [2026年清华大学五道口金融学院2027年接收优秀应届本科毕业生免试攻读研究生报名的通知](https://www.pbcsf.tsinghua.edu.cn/info/1147/10498.htm) |
 | ~~2026-05-20~~ | [2026年清华大学苏世民书院2027级招生简章](https://mp.weixin.qq.com/s/zyP58-SAW5AYIqsV23CTow) |
 
 <div align="center">
@@ -83,7 +83,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-07-30 | [2026年上海交通大学上海高级金融学院 2027级学术营报名通知](https://phd.saif.sjtu.edu.cn/show-204-463.html) |
+| ~~2026-07-30~~ | [2026年上海交通大学上海高级金融学院 2027级学术营报名通知](https://phd.saif.sjtu.edu.cn/show-204-463.html) |
 | ~~2026-07-12~~ | [2026年上海交通大学上海高级金融学院2027级全日制金融硕士夏令营通知](https://mp.weixin.qq.com/s/5vXszaT0Wxy_JJYKgHNGQg?scene=1&click_id=588294899) |
 | ~~2026-07-09~~ | [2026年上海交通大学安泰经济与管理学院全国优秀大学生暑期学术交流营报名通知](https://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcx.aspx) |
 | ~~2026-07-09~~ | [2026年上海交通大学安泰经济与管理学院金融硕士2027级优才营报名正式启动](https://mp.weixin.qq.com/s/U6QX5E2dHrtHZGjYxqXBhQ) |
